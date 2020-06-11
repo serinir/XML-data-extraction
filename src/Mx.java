@@ -14,27 +14,25 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-// import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
-// import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-// import java.io.FileOutputStream;
+
 import java.io.IOException;
 import java.io.InputStreamReader;
-// import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 
 import javax.xml.parsers.DocumentBuilder;
 
-public class Fiche {
+public class Mx extends Xmlers {
     Vector<String> nodevect = new Vector<String>();
     String fichier;
+    @Override
     public void read(String file) throws ParserConfigurationException, SAXException, IOException
     {
         if(file.contains("M457.xml")){
@@ -62,12 +60,12 @@ public class Fiche {
                 for(j=0;j<childes.getLength();j++){
                     if(childes.item(j).getNodeName().equals("#text")){
                         this.nodevect.add(childes.item(j).getNodeValue());
-                        // System.out.println(childes.item(i));
                     }
-                }  //System.out.println(j);
+                }
             }
         }
     }
+    @Override
     public void build(String output) throws ParserConfigurationException, TransformerException{
         final DocumentBuilderFactory factory =  DocumentBuilderFactory.newInstance();
         
@@ -77,7 +75,6 @@ public class Fiche {
         final Element racine = document.getDocumentElement();
         final Element sous_racine = document.createElement(this.fichier);
         for(int i=0;i<this.nodevect.size();i++){
-            // sous_racine.appendChild();
             String formated = format(this.nodevect.get(i));
             Text content = document.createTextNode(formated);
             Element text = document.createElement("text");
