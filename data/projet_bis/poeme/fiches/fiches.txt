@@ -1,0 +1,155 @@
+PNR 12/2011 – 04/06/2011	BE
+Fiche terminologique arabe-français : concepts médicaux	TY
+Médecine & Orthophonie	DO
+ORL; Audiologie; Surdité	SD
+AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina  	AU
+AR
+الصمم		VE :
+حرمان من حاسة السمع منذ الولادة إلى درجة تجعل الكلام المنطوق مستحيلا مع أو بدون المعينات السمعية. 		DF :
+الصمم بعد اللغوي.		PH :
+من الممكن مساعدة بعض الصم إما بإجراء عملية جراحية لهم أو بتزويدهم بمعينات سمعية.		NT :
+محمد السيد حلاوة، الرعاية الاجتماعية للطفل الأصم، المكتب العلمي للنشر، الإسكندرية، 1996، ص 293، ص 32.	VE : DF :	RF :
+جمال الخطيب، مقدمة في الإعاقة السمعية، دار الفكر للطباعة والنشر، عمان، 1998، الطبعة الأولى، 303 ص، ص 27.	PH :	
+جمال الخطيب، المرجع السابق، ص 18.	NT :	
+FR
+Surdité		VE :
+Trouble sensoriel auditif de la perception des formes acoustiques.		DF :
+Surdité acquise. 		PH :
+Il est certain que le seul lieu souhaitable pour éduquer l'enfant sourd reste le milieu familial. 		NT :
+BUSQUET D., MOTTIER Ch., L'enfant sourd. Développement psychologique et rééducation, Éditions    J. B. Baillière, Orthophonie 7, 1978, 264 p., p. 11.	VE :	RF :
+LAFON J. C., Les Enfants déficients auditifs, Simep, 1985, 207 p., p. 14. 	DF :	
+PIALOUX  P., VALTAT M., FREYSS G., LEGENT F., précis d'orthophonie, Masson, Paris, 1975, 300 p., p. 252.	PH :	
+LAFON J. C., loc. cit., p. 8.	NT :	
+
+
+
+
+
+
+
+PNR 12/2011 – 04/06/2011	BE
+Fiche terminologique arabe-français : concepts médicaux	TY
+Médecine & Orthophonie	DO
+ORL; Audiologie; Surdité	SD
+AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina 	AU
+AR                                                                                                                                                         
+الصمم		VE :
+فقد القدرة السمعية قبل تعلم الكلام أو من فقدها بمجرد تعلم الكلام لدرجة أن آثارالتعلم فقدت بسرعة.		DF :
+الصمم قبل اللغوي.		PH :
+من الممكن مساعدة بعض الصم إما بإجراء عملية جراحية لهم أو بتزويدهم بمعينات سمعية.		NT :
+محمد سيد فهمي، واقع رعاية المعوقين في الوطن العربي، المكتب الجامعي الحديث، الإسكندرية، مصر، 2000، ص 89.	VE : DF :	RF :
+جمال الخطيب، مقدمة في الإعاقة السمعية، دار الفكر للطباعة والنشر، عمان، 1998، الطبعة الأولى، 303 ص، ص 27.	PH :	
+جمال الخطيب، المرجع السابق، ص 18.	NT :	
+FR
+Surdité		VE :
+L'acuité auditive est insuffisante pour permettre à l'enfant d'apprendre à parler sa propre langue, de participer aux activités normales de son âge et de suivre avec profit l'enseignement scolaire général.		DF :
+Surdité congénitale.		PH :
+La présence d'une surdité dans l'enfance entraîne des altérations du comportement.		NT :
+BUSQUET D., MOTTIER Ch., L'enfant sourd. Développement psychologique et rééducation,                   J. B. Baillière, Orthophonie, 7, 1978, 264 p., p. 11.	VE :	RF :
+BUSQUET D., MOTTIER Ch., loc. cit., J.B. Baillière, Orthophonie, 7, 1978, 264  p., p. 9.	DF :	
+PIALOUX  P., VALTAT M., FREYSS G., LEGENT F., Précis d'orthophonie, Masson, Paris, 1975, 300 p., p. 253.	PH :	
+LAFON J. C., Les Enfants déficients auditifs, Simep, 1985, 207 p., p. 75.	NT :	
+
+
+
+PNR 12/2011 – 04/06/2011	BE
+Fiche terminologique arabe-français : concepts médicaux	TY
+Médecine & Orthophonie	DO
+ORL; Audiologie; Surdité	SD
+AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina 	AU
+AR
+مرض الباركينسون		VE :
+مرض يصيب الدماغ و يقلل القدرة على التحكم في الأعصاب، يصيب غالبا البالغين ما بين الخمسين و السبعين. من أعراضه الرعاش، بطء الحركة، التصلب، و فقدان الاتزان.  		DF :
+الرجفة الباركينسونية.		PH :
+يعتمد علاج الباركينسون على استعمال الدوبامين.		NT :
+عباس محمود عوض، علم النفس الفسيولوجي، الدار الجامعية للمطبوعات والنشر، 1981،231 ص،  ص 72.   	VE : DF : PH : NT :	RF :
+FR
+Maladie de PARKINSON 		VE :
+Maladie traduite par la perte progressive des neurones dopaminergique, entraînant une inhibition de thalamus moteur et par la même la perte de l’activation normale des aires motrices corticales qui rend compte de la symptomatologie parkinsonienne.      		DF :
+Syndrome parkinsonien dégénératif.  		PH :
+Le traitement repose principalement sur l’utilisation de médicament dopaminergique qui n’agit ni sur la cause, ni sur la progression de la maladie, mais il reste symptomatique.  		NT :
+AUZOU P., OZSANCAK C., Les troubles de la parole et de la déglutition dans la maladie de Parkinson, Solal, France, 2005, 432 p., p. 10.	VE :	RF :
+AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 19.	DF :	
+AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 22.   	PH :	
+AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 27.   	NT :	
+
+
+
+
+
+PNR 12/2011 – 04/06/2011	BE
+Fiche terminologique arabe-français : concepts médicaux	TY
+Médecine & Orthophonie	DO
+ORL; Audiologie; Surdité	SD
+AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira 	AU
+AR
+لثغ بين الثنايا؛ لثغة		VE :
+كل العيوب الصوتية البسيطة (مفردة) التي تستمر إلى سن يتوقع لأدائها أن يتم بشكل صحيح.		DF :
+. اللثغة السينية، اللثغة الرائية		PH :
+اللثغ  بين الثنايا  يصيب الصامتات الصفيرية المهموسة و المجهورة.		NT :
+م. ناصر القطبي ، الرئيس السابق ل ال IALP : “International Association of Logopaedics and Phoniatrics” ، 1995،عضو اللجنة العلمية لمجلة   :« FOLIA PHONIATRICA ET LOGOPAEDICA »  ،   المستشفى المتخصص لجامعة عين الشمس، وحدة أمراض الصوت، ، القاهرة، مصر، البريد الالكتروني ل 29 جوان 2003، الساعة: 20 و19 دقيقة. 	VE : DF :	RF :
+التدريس الأكاديمي لنصيرة بشكل ، لوحدة اضطرا بات النطق لليسانس الأرطفونيا، قسم علم النفس و علوم التربية ، جامعة الجزائر، 1997-1998، الترجمة باللغة الفرنسية لكتاب درس علم النطق العربي، ديوان المطبوعات الجامعية، الجزائر، 111 ص، ص 74،1984، دروس مترجمة إلى اللغة العربية.	PH :	
+جمال الخطيب، المرجع السابق، ص 18.	NT :	
+FR
+Sigmatisme interdental		VE :
+Trouble articulatoire fonctionnel qui touche le point d’articulation.		DF :
+Sigmatisme interdental par substitution.		PH :
+Le sigmatisme est un trouble du point d’articulation.		NT :
+AUTEUR AUTEUR, AUTEUR de cas, Office des Publications Universitaires, Alger, 1992, 300 p., p. 189 ; AUTEUR AUTEUR, loc. cit., 1984,  p. 74.	VE : DF : PH :	RF :
+AUTEUR AUTEUR, loc. cit., 1992,  p. 189.	NT :	
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+	            
+	
+			
+			
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+		
+			
+			
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+	
+
+
+
+

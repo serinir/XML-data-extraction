@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="cp1252"?>
+<!DOCTYPE TEI SYSTEM "TEIFrantext.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Messéniennes</title>
+				<author>Casimir DELAVIGNE</author>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="FRANTEXT">M457</idno>
+				<distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+				<address>
+					<addrLine>44, avenue de la Libération</addrLine>
+					<addrLine>BP 30687</addrLine>
+					<addrLine>54063 Nancy Cedex</addrLine>
+					<addrLine>FRANCE</addrLine>
+				</address>
+				<availability status="free">
+					<p>Dans un cadre de recherche ou d'enseignement</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<imprint>
+							<publisher>Paris : Furne, 1835.</publisher>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date>1824</date>
+			</creation>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body text="red">
+			<div>
+				<head>ENVOI DES MESSéNIENNES à MME...</head>
+				<pb n="19"/>
+				<p>Les voilà ces chants funéraires,<lb/>
+faible tribut de ma douleur :<lb/>
+lisez ; le trépas de nos frères<lb/>
+pour vous, du moins, fut un malheur.<lb/>
+Aux beaux jours de notre vaillance<lb/>
+leurs noms immortels sont liés ;<lb/>
+ils revivront chers à la *France,<lb/>
+et mes vers seront oubliés.<lb/>
+La jeunesse ira d'âge en âge,<lb/>
+parcourant des champs meurtriers,<lb/>
+visiter en pèlerinage<lb/>
+les mânes de nos vieux guerriers.<pb n="20"/>
+Alors paraîtront à sa vue<lb/>
+leurs glaives par le temps rongés,<lb/>
+leurs os brisés par la charrue...<lb/>
+alors nous les aurons vengés.<lb/>
+On verra la *France, animée<lb/>
+d'un souvenir triste et pieux,<lb/>
+combattre et vaincre aux mêmes lieux,<lb/>
+pour ensevelir son armée.<lb/>
+Leur cendre vole au gré du vent,<lb/>
+dans ces champs témoins de leur gloire ;<lb/>
+mais notre courage et l'histoire<lb/>
+se chargent de leur monument.</p>
+			</div>
+			<div>
+				<head>MESS 1 LA BATAILLE DE WATERLOO</head>
+				<pb n="21"/>
+				<p>Ils ne sont plus, laissez en paix leur cendre :<lb/>
+par d'injustes clameurs ces braves outragés<lb/>
+à se justifier n'ont pas voulu descendre ;<lb/>
+mais un seul jour les a vengés :<lb/>
+ils sont tous morts pour vous défendre.<lb/>
+Malheur à vous si vos yeux inhumains<lb/>
+n'ont point de pleurs pour la patrie !<lb/>
+Sans force contre vos chagrins,<lb/>
+contre le mal commun votre ame est aguerrie ;<lb/>
+tremblez, la mort peut-être étend sur vous ses mains !<lb/>
+Que dis-je ? Quel français n'a répandu des larmes<pb n="22"/>
+sur nos défenseurs expirans ?<lb/>
+Prêt à revoir les rois qu'il regretta vingt ans,<lb/>
+quel vieillard n'a rougi du malheur de nos armes ?<lb/>
+En pleurant ces guerriers par le destin trahis,<lb/>
+quel vieillard n'a senti s'éveiller dans son ame<lb/>
+quelque reste assoupi de cette antique flamme<lb/>
+qui l'embrasait pour son pays ?<lb/>
+Que de leçons, grand dieu ! Que d'horribles images<lb/>
+l'histoire d'un seul jour présente aux yeux des rois !<lb/>
+*Clio, sans que la plume échappe de ses doigts,<lb/>
+pourra-t-elle en tracer les pages ?<lb/>
+Cachez-moi ces soldats sous le nombre accablés,<lb/>
+domptés par la fatigue, écrasés par la foudre,<lb/>
+ces membres palpitans dispersés sur la poudre,<lb/>
+ces cadavres amoncelés !<lb/>
+éloignez de mes yeux ce monument funeste<lb/>
+de la fureur des nations :<lb/>
+ô mort ! épargne ce qui reste !<lb/>
+*Varus, rends-nous nos légions !<lb/>
+Les coursiers frappés d'épouvante,<pb n="23"/>
+les chefs et les soldats épars,<lb/>
+nos aigles et nos étendards<lb/>
+souillés d'une fange sanglante,<lb/>
+insultés par les léopards,<lb/>
+les blessés mourant sur les chars,<lb/>
+tout se presse sans ordre, et la foule incertaine,<lb/>
+qui se tourmente en vains efforts,<lb/>
+s'agite, se heurte, se traîne,<lb/>
+et laisse après soi dans la plaine<lb/>
+du sang, des débris et des morts.<lb/>
+Parmi des tourbillons de flamme et de fumée,<lb/>
+ô douleur, quel spectacle à mes yeux vient s'offrir ?<lb/>
+Le bataillon sacré, seul devant une armée,<lb/>
+s'arrête pour mourir.<lb/>
+C'est en vain que, surpris d'une vertu si rare,<lb/>
+les vainqueurs dans leurs mains retiennent le trépas.<lb/>
+Fier de le conquérir, il court, il s'en empare :<lb/>
+la garde, avait-il dit, meurt et ne se rend pas.<lb/>
+On dit qu'en les voyant couchés sur la poussière,<lb/>
+d'un respect douloureux frappé par tant d'exploits,<lb/>
+l'ennemi, l'oeil fixé sur leur face guerrière,<lb/>
+les regarda sans peur pour la première fois.<pb n="24"/>
+Les voilà ces héros si long-temps invincibles !<lb/>
+Ils menacent encor les vainqueurs étonnés !<lb/>
+Glacés par le trépas, que leurs yeux sont terribles !<lb/>
+Que de hauts faits écrits sur leurs fronts sillonnés !<lb/>
+Ils ont bravé les feux du soleil d'*Italie,<lb/>
+de la castille ils ont franchi les monts ;<lb/>
+et le nord les a vus marcher sur les glaçons<lb/>
+dont l'éternel rempart protége la *Russie.<lb/>
+Ils avaient tout dompté... le destin des combats<lb/>
+leur devait, après tant de gloire,<lb/>
+ce qu'aux français naguère il ne refusait pas :<lb/>
+le bonheur de mourir dans un jour de victoire.<lb/>
+Ah ! Ne les pleurons pas ! Sur leurs fronts<lb/>
+triomphans<lb/>
+la palme de l'honneur n'a pas été flétrie ;<lb/>
+pleurons sur nous, français, pleurons sur la patrie :<lb/>
+l'orgueil et l'intérêt divisent ses enfans.<lb/>
+Quel siècle en trahisons fut jamais plus fertile ?<lb/>
+L'amour du bien commun de tous les coeurs s'exile :<lb/>
+la timide amitié n'a plus d'épanchemens ;<lb/>
+on s'évite, on se craint ; la foi n'a plus d'asile,<lb/>
+et s'enfuit d'épouvante au bruit de nos sermens.<lb/>
+ô vertige fatal ! Déplorables querelles<pb n="25"/>
+qui livrent nos foyers au fer de l'étranger !<lb/>
+Le glaive étincelant dans nos mains infidèles,<lb/>
+ensanglante le sein qu'il devrait protéger.<lb/>
+L'ennemi cependant renverse les murailles<lb/>
+de nos forts et de nos cités ;<lb/>
+la foudre tonne encore, au mépris des traités.<lb/>
+L'incendie et les funérailles<lb/>
+épouvantent encor nos hameaux dévastés ;<lb/>
+d'avides proconsuls dévorent nos provinces ;<lb/>
+et, sous l'écharpe blanche, ou sous les trois couleurs,<lb/>
+les français, disputant pour le choix de leurs princes,<lb/>
+détrônent des drapeaux et proscrivent des fleurs.<lb/>
+Des soldats de la *Germanie<lb/>
+j'ai vu les coursiers vagabonds<lb/>
+dans nos jardins pompeux errer sur les gazons,<lb/>
+parmi ces demi-dieux qu'enfanta le génie.<lb/>
+J'ai vu des bataillons, des tentes et des chars,<lb/>
+et l'appareil d'un camp dans le temple des arts.<lb/>
+Faut-il, muets témoins, dévorer tant d'outrages ?<lb/>
+Faut-il que le français, l'olivier dans la main,<lb/>
+reste insensible et froid comme ces dieux d'airain<pb n="26"/>
+dont ils insultent les images ?<lb/>
+Nous devons tous nos maux à ces divisions<lb/>
+que nourrit notre intolérance.<lb/>
+Il est temps d'immoler au bonheur de la *France<lb/>
+cet orgueil ombrageux de nos opinions.<lb/>
+étouffons le flambeau des guerres intestines.<lb/>
+Soldats, le ciel prononce, il relève les lis :<lb/>
+adoptez les couleurs du héros de *Bovines,<lb/>
+en donnant une larme aux drapeaux d'*Austerlitz.<lb/>
+*France, réveille-toi ! Qu'un courroux unanime<lb/>
+enfante des guerriers autour du souverain !<lb/>
+Divisés, désarmés, le vainqueur nous opprime :<lb/>
+présentons-lui la paix, les armes à la main.<lb/>
+Et vous, peuples si fiers du trépas de nos braves,<lb/>
+vous, les témoins de notre deuil,<lb/>
+ne croyez pas, dans votre orgueil,<lb/>
+que, pour être vaincus, les français soient esclaves.<lb/>
+Gardez-vous d'irriter nos vengeurs à venir ;<lb/>
+peut-être que le ciel, lassé de nous punir,<pb n="29"/>
+seconderait notre courage ;<lb/>
+et qu'un autre *Germanicus<lb/>
+irait demander compte aux germains d'un autre âge<lb/>
+de la défaite de *Varus.</p>
+			</div>
+			<div>
+				<head>MESS 2 LA DéVASTATION DU MUSéE</head>
+				<p>La sainte vérité qui m'échauffe et m'inspire<lb/>
+écarte et foule aux pieds les voiles imposteurs :<lb/>
+ma muse de nos maux flétrira les auteurs,<lb/>
+dussé-je voir briser ma lyre<lb/>
+par le glaive insolent de nos libérateurs.<lb/>
+Où vont ces chars pesans conduits par leurs cohortes ?<lb/>
+Sous les voûtes du louvre ils marchent à pas lents :<lb/>
+ils s'arrêtent devant ses portes ;<lb/>
+viennent-ils lui ravir ses sacrés ornemens ?<lb/>
+Muses, penchez vos têtes abattues :<pb n="30"/>
+du siècle de *Léon les chefs-d'oeuvre divins<lb/>
+sous un ciel sans clarté suivront les froids germains ;<lb/>
+les vaisseaux d'*Albion attendent nos statues.<lb/>
+Des profanateurs inhumains<lb/>
+vont-ils anéantir tant de veilles savantes ?<lb/>
+Porteront-ils le fer sur les toiles vivantes<lb/>
+que *Raphaël anima de ses mains ?<lb/>
+Dieu du jour, dieu des vers, ils brisent ton image.<lb/>
+C'en est fait : la victoire et la divinité<lb/>
+ne couronnent plus ton visage<lb/>
+d'une double immortalité.<lb/>
+C'en est fait : loin de toi jette un arc inutile.<lb/>
+Non, tu n'inspiras point le vieux chantre d'*Achille ;<lb/>
+non, tu n'es pas le dieu qui vengea les neuf soeurs<lb/>
+des fureurs d'un monstre sauvage,<lb/>
+toi qui n'as pas un trait pour venger ton outrage<lb/>
+et terrasser tes ravisseurs.<lb/>
+Le deuil est aux bosquets de *Gnide.<lb/>
+Muet, pâle et le front baissé,<lb/>
+l'amour, que la guerre intimide,<pb n="31"/>
+éteint son flambeau renversé.<lb/>
+Des grâces la troupe légère<lb/>
+l'interroge sur ses douleurs :<lb/>
+il leur dit en versant des pleurs :<lb/>
+" j'ai vu *Mars outrager ma mère. "<lb/>
+je crois entendre encor les clameurs des soldats<lb/>
+entraînant la jeune immortelle :<lb/>
+le fer a mutilé ses membres délicats ;<lb/>
+hélas, elle semblait et plus chaste et plus belle,<lb/>
+cacher sa honte entre leurs bras.<lb/>
+Dans un fort pris d'assaut, telle une vierge en<lb/>
+larmes,<lb/>
+aux yeux des forcenés dont l'insolente ardeur<lb/>
+déchira les tissus qui dérobaient ses charmes,<lb/>
+se voile encor de sa pudeur.<lb/>
+Adieu, débris fameux de *Grèce et d'*Ausonie,<lb/>
+et vous, tableaux errans de climats en climats ;<pb n="32"/>
+adieu, *Corrége, *Albane, immortel *Phidias !<lb/>
+Adieu, les arts et le génie !<lb/>
+Noble *France, pardonne ! à tes pompeux travaux,<lb/>
+aux *Pujet, aux *Lebrun, ma douleur fait injure.<lb/>
+*David a ramené son siècle à la nature :<lb/>
+parmi ses nourrissons il compte des rivaux...<lb/>
+laissons-la s'élever cette école nouvelle !<lb/>
+Le laurier de *David de lauriers entouré,<lb/>
+fier de ses rejetons, enfante un bois sacré<lb/>
+qui protége les arts de son ombre éternelle.<lb/>
+Le marbre animé parle aux yeux :<lb/>
+une autre *Vénus plus féconde,<lb/>
+près d'*Hercule victorieux,<lb/>
+étend son flambeau sur le monde.<lb/>
+*Ajax, de son pied furieux,<lb/>
+insulte au flot qui se retire ;<lb/>
+l'oeil superbe, un bras dans les cieux,<lb/>
+il s'élance, et je l'entends dire :<lb/>
+" j'échapperai malgré les dieux. "<lb/>
+mais quels monceaux de morts ! Que de spectres<lb/>
+livides !<pb n="33"/>
+Ils tombent dans *Jaffa ces vieux soldats français<lb/>
+qui réveillaient naguère, au bruit de leurs succès,<lb/>
+les siècles entassés au fond des pyramides.<lb/>
+Ah ! Fuyons ces bords meurtriers !<lb/>
+D'où te vient, *Austerlitz, l'éclat qui t'environne ?<lb/>
+Qui dois-je couronner du peintre ou des guerriers ?<lb/>
+Les guerriers et le peintre ont droit à la couronne.<lb/>
+Des chefs-d'oeuvre français naissent de toutes parts ;<lb/>
+ils surprennent mon coeur à d'invincibles charmes :<lb/>
+au déluge, en tremblant, j'applaudis par mes larmes ;<lb/>
+*Didon enchante mes regards ;<lb/>
+versant sur un beau corps sa clarté caressante,<lb/>
+à travers le feuillage un faible et doux rayon<lb/>
+porte les baisers d'une amante<lb/>
+sur les lèvres d'*Endymion ;<lb/>
+de son flambeau vengeur *Némésis m'épouvante ;<lb/>
+je frémis avec *Phèdre, et n'ose interroger<lb/>
+l'accusé dédaigneux qui semble la juger.<lb/>
+Je vois *Léonidas. ô courage ! ô patrie !<lb/>
+Trois cents héros sont morts dans ce détroit fameux :<lb/>
+trois cents ! Quel souvenir ! ... je pleure... et je<lb/>
+m'écrie :<lb/>
+dix-huit mille français ont expiré comme eux !<lb/>
+Oui : j'en suis fier encor : ma patrie est l'asile,<pb n="34"/>
+elle est le temple des beaux-arts :<lb/>
+à l'ombre de nos étendards,<lb/>
+ils reviendront ces dieux que la fortune exile.<lb/>
+L'étranger, qui nous trompe, écrase impunément<lb/>
+la justice et la foi sous le glaive étouffées ;<lb/>
+il ternit pour jamais sa splendeur d'un moment ;<lb/>
+il triomphe en barbare et brise nos trophées :<lb/>
+que cet orgueil est misérable et vain !<lb/>
+Croit-il anéantir tous nos titres de gloire ?<lb/>
+On peut les effacer sur le marbre ou l'airain ;<lb/>
+qui les effacera du livre de l'histoire ?<lb/>
+Ah ! Tant que le soleil luira sur vos états,<lb/>
+il en doit éclairer d'impérissables marques :<lb/>
+comment disparaîtront, ô superbes monarques,<lb/>
+ces champs où les lauriers croissaient pour nos<lb/>
+soldats ?<lb/>
+Allez, détruisez donc tant de cités royales<lb/>
+dont les clefs d'or suivaient nos pompes triomphales ;<lb/>
+comblez ces fleuves écumans<lb/>
+qui nous ont opposé d'impuissantes barrières,<lb/>
+aplanissez ces monts dont les rochers fumans<lb/>
+tremblaient sous nos foudres guerrières.<lb/>
+Voilà nos monumens : c'est là que nos exploits<pb n="37"/>
+redoutent peu l'orgueil d'une injuste victoire :<lb/>
+le fer, le feu, le temps plus puissant que les rois,<lb/>
+ne peut rien contre leur mémoire.</p>
+			</div>
+			<div>
+				<head>MESS 3 DU BESOIN DE S'UNIR</head>
+				<p>ô toi que l'univers adore,<lb/>
+ô toi que maudit l'univers,<lb/>
+fortune, dont la main, du couchant à l'aurore,<lb/>
+dispense les lauriers, les sceptres et les fers,<lb/>
+ton aveugle courroux nous garde-t-il encore<lb/>
+des triomphes et des revers ?<lb/>
+Nos malheurs trop fameux proclament ta puissance ;<lb/>
+tes jeux furent sanglans dans notre belle *France :<lb/>
+le peuple mieux instruit, mais trop fier de ses droits,<lb/>
+sur les débris du trône établit son empire,<lb/>
+poussa la liberté jusqu'au mépris des lois,<lb/>
+et la raison jusqu'au délire.<lb/>
+Bientôt au premier rang porté par ses exploits,<pb n="38"/>
+un roi nouveau brisa d'un sceptre despotique<lb/>
+les faisceaux de la république,<lb/>
+tout dégouttans du sang des rois.<lb/>
+Pour affermir son trône, il lassa la victoire,<lb/>
+d'un peuple généreux prodigua la valeur ;<lb/>
+l'*Europe qu'il bravait a fléchi sous sa gloire :<lb/>
+elle insulte à notre malheur.<lb/>
+C'est qu'ils ne vivent plus que dans notre mémoire<lb/>
+ces guerriers dont le nord a moissonné la fleur.<lb/>
+ô désastre ! ô pitié ! Jour à jamais célèbre,<lb/>
+où ce cri s'éleva dans la patrie en deuil :<lb/>
+ils sont morts, et *Moscow fut le flambeau funèbre<lb/>
+qui prêta ses clartés à leur vaste cercueil.<lb/>
+Ces règnes d'un moment, et les chutes soudaines<lb/>
+de ces trônes d'un jour l'un sur l'autre croulans,<lb/>
+ont laissé des levains de discorde et de haines<lb/>
+dans nos esprits plus turbulens.<lb/>
+Cessant de comprimer la fièvre qui l'agite,<lb/>
+le fier républicain, sourd aux leçons du temps,<pb n="39"/>
+appelle avec fureur, dans ses rêves ardens,<lb/>
+une liberté sans limite ;<lb/>
+mais cette liberté fut féconde en forfaits :<lb/>
+cet océan trompeur, qui n'a point de rivages,<lb/>
+n'est connu jusqu'à nous que par de grands naufrages<lb/>
+dans les annales des français.<lb/>
+" que nos maux, direz-vous, nous soient du moins<lb/>
+utiles :<lb/>
+" opposons une digue aux tempêtes civiles ;<lb/>
+" que deux pouvoirs rivaux, l'un émané des rois,<lb/>
+" l'autre sorti du peuple et garant de ses droits,<lb/>
+" libres et dépendans, offrent au rang suprême<lb/>
+" un rempart contre nous, un frein contre lui-même. "<lb/>
+vainement la raison vous dicte ces discours ;<lb/>
+l'égoïsme et l'orgueil sont aveugles et sourds :<lb/>
+cet amant du passé, que le présent irrite,<lb/>
+jaloux de voir ses rois d'entraves dégagés,<lb/>
+le front baissé, se précipite<lb/>
+sous la verge des préjugés.<lb/>
+Quoi ! Toujours des partis proclamés légitimes,<pb n="40"/>
+tant qu'ils règnent sur nos débris,<lb/>
+l'un par l'autre abattus, proscrivant ou proscrits,<lb/>
+tour à tour tyrans ou victimes !<lb/>
+Empire malheureux ! Voilà donc ton destin ! ...<lb/>
+français, ne dites plus : " la *France nous est chère ; "<lb/>
+elle désavoûrait votre amour inhumain.<lb/>
+Cessez, enfans ingrats, d'embrasser votre mère,<lb/>
+pour vous étouffer dans son sein.<lb/>
+Contre ses ennemis tournez votre courage ;<lb/>
+au conseil des vainqueurs son sort est agité :<lb/>
+ces rois qui l'encensaient fiers de leur esclavage,<lb/>
+vont lui vendre la liberté.<lb/>
+Non, ce n'est pas en vain que sa voix nous appelle ;<lb/>
+et, s'ils ont prétendu, par d'infames traités,<lb/>
+imprimer sur nos fronts une tache éternelle :<lb/>
+si de leur doigt superbe ils marquent les cités<lb/>
+que veut se partager une ligue infidèle ;<lb/>
+si la foi des sermens n'est qu'un garant trompeur ;<lb/>
+si, le glaive à la main, l'iniquité l'emporte ;<lb/>
+si la *France n'est plus, si la patrie est morte,<pb n="41"/>
+mourons tous avec elle, ou rendons-lui l'honneur.<lb/>
+Qu'entends-je ? Et d'où vient cette ivresse<lb/>
+qui semble croître dans son cours ?<lb/>
+Quels chants, quels transports d'allégresse !<lb/>
+Quel bruyant et nombreux concours !<lb/>
+De nos soldats la foule au loin se presse ;<lb/>
+d'une nouvelle ardeur leurs yeux sont embrasés ;<lb/>
+plus d'anglais parmi nous ! Plus de joug ! Plus<lb/>
+d'entraves !<lb/>
+Levez plus fièrement vos fronts cicatrisés...<lb/>
+oui, l'étranger s'éloigne ; oui, vos fers sont<lb/>
+brisés ;<lb/>
+soldats, vous n'êtes plus esclaves !<lb/>
+Reprends ton orgueil,<lb/>
+ma noble patrie ;<lb/>
+quitte enfin ton deuil,<lb/>
+liberté chérie ;<lb/>
+liberté, patrie,<lb/>
+sortez du cercueil !<lb/>
+D'un vainqueur insolent méprisons les injures :<lb/>
+riches des étendards conquis sur nos rivaux,<pb n="42"/>
+nous pouvons à leurs yeux dérober nos blessures<lb/>
+en les cachant sous leurs drapeaux.<lb/>
+Voulons-nous enchaîner leurs fureurs impuissantes ?<lb/>
+Soyons unis, français ; nous ne les verrons plus<lb/>
+nous dicter d'*Albion les décrets absolus,<lb/>
+arborer sur nos tours ses couleurs menaçantes.<lb/>
+Nous ne les verrons plus, le front ceint de lauriers,<lb/>
+troublant de leur aspect les fêtes du génie,<lb/>
+chez *Melpomène et *Polymnie<lb/>
+usurper une place où siégeaient nos guerriers.<lb/>&#38;
+Nous ne les verrons plus nous accorder par grace<lb/>
+une part des trésors flottans sur nos sillons.<lb/>
+Soyons unis ; jamais leurs bataillons<lb/>
+de nos champs envahis ne couvriront la face :<lb/>
+la *France dans son sein ne les peut endurer,<lb/>
+et ne les recevrait que pour les dévorer.<lb/>
+Ah ! Ne l'oublions pas ; naguère, dans ces plaines<lb/>
+où le sort nous abandonna,<lb/>
+nous n'avions pas porté des ames moins romaines<lb/>
+qu'aux champs de *Rivoli, de *Fleurus, d'*Iéna ;<lb/>
+mais nos divisions nous y forgeaient des chaînes.<pb n="43"/>
+Effrayante leçon qui doit unir nos coeurs<lb/>
+par des liens indestructibles :<lb/>
+le courage fait des vainqueurs ;<lb/>
+la concorde, des invincibles.<lb/>
+*Henri, divin *Henri, toi qui fus grand et bon,<lb/>
+qui chassas l'espagnol et finis nos misères,<lb/>
+les partis sont d'accord en prononçant ton nom ;<lb/>
+*Henri, de tes enfans fais un peuple de frères.<lb/>
+Ton image déjà semble nous protéger,<lb/>
+tu renais ; avec toi renaît l'indépendance :<lb/>
+ô roi le plus français dont s'honore la *France,<lb/>
+il est dans ton destin de voir fuir l'étranger !<lb/>
+Et toi, son digne fils, après vingt ans d'orage,<lb/>
+règne sur des sujets par toi-même ennoblis.<lb/>
+Leurs droits sont consacrés dans ton plus bel ouvrage.<lb/>
+Oui, ce grand monument, affermi d'âge en âge,<lb/>
+doit couvrir de son ombre et le peuple et les lis.<lb/>
+Il est des opprimés l'asile impérissable,<lb/>
+la terreur du tyran, du ministre coupable,<lb/>
+le temple de nos libertés.<lb/>
+Que la *France prospère en tes mains magnanimes,<pb n="44"/>
+que tes jours soient sereins, tes décrets respectés,<lb/>
+toi, qui proclames ces maximes :<lb/>
+ô rois, pour commander, obéissez aux lois ;<lb/>
+peuple, en obéissant, sois libre sous tes rois !</p>
+			</div>
+			<div>
+				<head>MESS 4 LA VIE DE JEANNE D'ARC</head>
+				<pb n="45"/>
+				<p>Un jour que l'océan gonflé par la tempête,<lb/>
+réunissant les eaux de ses fleuves divers,<lb/>
+fier de tout envahir, marchait à la conquête<lb/>
+de ce vaste univers ;<lb/>
+une voix s'éleva du milieu des orages,<lb/>
+et *Dieu, de tant d'audace invinsible témoin,<lb/>
+dit aux flots étonnés : " mourez sur ces rivages,<lb/>
+" vous n'irez pas plus loin. "<lb/>
+ainsi, quand, tourmentés d'une impuissante rage,<lb/>
+les soldats de *Bedfort, grossis par leurs succès,<lb/>
+menaçaient d'un prochain naufrage<lb/>
+le royaume et le nom français ;<lb/>
+une femme, arrêtant ces bandes formidables,<lb/>
+se montra dans nos champs de leur foule inondés ;<pb n="46"/>
+et ce torrent vainqueur expira dans les sables<lb/>
+que naguère il couvrait de ses flots débordés.<lb/>
+Une femme paraît, une vierge, un héros :<lb/>
+elle arrache son maître aux langueurs du repos.<lb/>
+La *France qui gémit se réveille avec peine,<lb/>
+voit son trône abattu, voit ses champs dévastés,<lb/>
+se lève en secouant sa chaîne,<lb/>
+et rassemble à ce bruit ses enfans irrités.<lb/>
+Qui t'inspira, jeune et faible bergère,<lb/>
+d'abandonner la houlette légère<lb/>
+et les tissus commencés par ta main ?<lb/>
+Ta sainte ardeur n'a pas été trompée ;<lb/>
+mais quel pouvoir brise sous ton épée<lb/>
+les cimiers d'or et les casques d'airain ?<lb/>
+L'aube du jour voit briller ton armure,<lb/>
+l'acier pesant couvre ta chevelure,<lb/>
+et des combats tu cours braver le sort.<lb/>
+Qui t'inspira de quitter ton vieux père,<lb/>
+de préférer aux baisers de ta mère<pb n="47"/>
+l'horreur des camps, le carnage et la mort ?<lb/>
+C'est *Dieu qui l'a voulu, c'est le dieu des armées,<lb/>
+qui regarde en pitié les pleurs des malheureux,<lb/>
+c'est lui qui délivra nos tribus opprimées<lb/>
+sous le poids d'un joug rigoureux ;<lb/>
+c'est lui, c'est l'éternel, c'est le dieu des armées !<lb/>
+L'ange exterminateur bénit ton étendard ;<lb/>
+il mit dans tes accens un son mâle et terrible,<lb/>
+la force dans ton bras, la mort dans ton regard,<lb/>
+et dit à la brebis paisible :<lb/>
+va déchirer le léopard.<lb/>
+*Richemont, *Lahire, *Xaintrailles,<lb/>
+*Dunois, et vous, preux chevaliers,<lb/>
+suivez ses pas dans les batailles :<lb/>
+couvrez-la de vos boucliers,<lb/>
+couvrez-la de votre vaillance ;<lb/>
+soldats, c'est l'espoir de la *France<lb/>
+que votre roi vous a commis.<lb/>
+Marchez quand sa voix vous appelle,<pb n="48"/>
+car la victoire est avec elle ;<lb/>
+la fuite, avec ses ennemis.<lb/>
+Apprenez d'une femme à forcer des murailles,<lb/>
+à gravir leurs débris sous des feux dévorans,<lb/>
+à terrasser l'anglais, à porter dans ses rangs<lb/>
+un bras fécond en funérailles !<lb/>
+Honneur à ses hauts faits ! Guerriers, honneur à vous !<lb/>
+Chante, heureuse *Orléans, les vengeurs de la *France,<lb/>
+chante ta délivrance :<lb/>
+les assaillans nombreux sont tombés sous leurs coups.<lb/>
+Que sont-ils devenus ces conquérans sauvages<lb/>
+devant le fer vainqueur qui combattait pour nous ? ...<lb/>
+ce que deviennent des nuages<lb/>
+d'insectes dévorans dans les airs rassemblés,<lb/>
+quand un noir tourbillon élancé des montagnes<lb/>
+disperse en tournoyant ces bataillons ailés,<lb/>
+et fait pleuvoir sur nos campagnes<lb/>
+leurs cadavres amoncelés.<lb/>
+Aux yeux d'un ennemi superbe<pb n="49"/>
+le lis a repris ses couleurs ;<lb/>
+ses longs rameaux courbés sous l'herbe<lb/>
+se relèvent couverts de fleurs.<lb/>
+*Jeanne au front de son maître a posé la couronne.<lb/>
+à l'attrait des plaisirs qui retiennent ses pas<lb/>
+la noble fille l'abandonne :<lb/>
+délices de la cour, vous n'enchaînerez pas<lb/>
+l'ardeur d'une vertu si pure ;<lb/>
+des armes, voilà sa parure,<lb/>
+et ses plaisirs sont les combats.<lb/>
+Ainsi tout prospérait à son jeune courage.<lb/>
+*Dieu conduisit deux ans ce merveilleux ouvrage.<lb/>
+Il se plut à récompenser<lb/>
+pour la *France et ses rois son amour idolâtre,<lb/>
+deux ans il la soutint sur ce brillant théâtre,<lb/>
+pour apprendre aux anglais, qu'il voulait abaisser<lb/>
+que la *France jamais ne périt tout entière,<lb/>
+que, son dernier vengeur fût-il dans la poussière,<lb/>
+les femmes, au besoin, pourraient les en chasser.</p>
+			</div>
+			<div>
+				<head>MESS 5 LA MORT DE JEANNE D'ARC</head>
+				<pb n="51"/>
+				<p>Silence au camp ! La vierge est prisonnière ;<lb/>
+par un injuste arrêt *Bedfort croit la flétrir :<lb/>
+jeune encore, elle touche à son heure dernière...<lb/>
+silence au camp ! La vierge va périr.<lb/>
+Des pontifes divins, vendus à la puissance,<lb/>
+sous les subtilités des dogmes ténébreux<lb/>
+ont accablé son innocence.<lb/>
+Les anglais commandaient ce sacrifice affreux :<lb/>
+un prêtre en cheveux blancs ordonna le supplice ;<lb/>
+et c'est au nom d'un dieu par lui calomnié,<lb/>
+d'un dieu de vérité, d'amour et de justice,<lb/>
+qu'un prêtre fut perfide, injuste et sans pitié.<pb n="52"/>
+*Dieu, quand ton jour viendra, quel sera le partage<lb/>
+des pontifes persécuteurs ?<lb/>
+Oseront-ils prétendre au céleste héritage<lb/>
+de l'innocent dont ils ont bu les pleurs ?<lb/>
+Ils seront rejetés, ces pieux imposteurs,<lb/>
+qui font servir ton nom de complice à leur rage,<lb/>
+et t'offrent pour encens la vapeur du carnage.<lb/>
+à qui réserve-t-on ces apprêts meurtriers ?<lb/>
+Pour qui ces torches qu'on excite ?<lb/>
+L'airain sacré tremble et s'agite...<lb/>
+d'où vient ce bruit lugubre ? Où courent ces guerriers<lb/>
+dont la foule à long flots roule et se précipite ?<lb/>
+La joie éclate sur leurs traits,<lb/>
+sans doute l'honneur les enflamme :<lb/>
+ils vont pour un assaut former leurs rangs épais :<lb/>
+non, ces guerriers sont des anglais<lb/>
+qui vont voir mourir une femme.<lb/>
+Qu'ils sont nobles dans leur courroux !<lb/>
+Qu'il est beau d'insulter au bras chargé d'entraves !<pb n="53"/>
+La voyant sans défense, ils s'écriaient, ces braves :<lb/>
+qu'elle meure ! Elle a contre nous<lb/>
+des esprits infernaux suscité la magie...<lb/>
+lâches ! Que lui reprochez-vous ?<lb/>
+D'un courage inspiré la brûlante énergie,<lb/>
+l'amour du nom français, le mépris du danger,<lb/>
+voilà sa magie et ses charmes ;<lb/>
+en faut-il d'autres que des armes<lb/>
+pour combattre, pour vaincre et punir l'étranger ?<lb/>
+Du *Christ avec ardeur *Jeanne baisait l'image ;<lb/>
+ses longs cheveux épars flottaient au gré des vents,<lb/>
+au pied de l'échafaud, sans changer de visage,<lb/>
+elle s'avançait à pas lents.<lb/>
+Tranquille, elle y monta : quand, debout sur le faîte,<lb/>
+elle vit ce bûcher qui l'allait dévorer,<lb/>
+les bourreaux en suspens, la flamme déjà prête,<lb/>
+sentant son coeur faillir, elle baissa la tête,<lb/>
+et se prit à pleurer.<lb/>
+Ah ! Pleure, fille infortunée !<lb/>
+Ta jeunesse va se flétrir,<lb/>
+dans sa fleur trop tôt moissonnée !<pb n="54"/>
+Adieu, beau ciel, il faut mourir.<lb/>
+Ainsi qu'une source affaiblie,<lb/>
+près du lieu même où naît son cours,<lb/>
+meurt en prodiguant ses secours<lb/>
+au berger qui passe et l'oublie ;<lb/>
+ainsi, dans l'âge des amours,<lb/>
+finit ta chaste destinée,<lb/>
+et tu péris abandonnée<lb/>
+par ceux dont tu sauvas les jours.<lb/>
+Tu ne reverras plus tes riantes montagnes,<lb/>
+le temple, le hameau, les champs de *Vaucouleurs,<lb/>
+et ta chaumière et tes compagnes,<lb/>
+et ton père expirant sous le poids des douleurs.<lb/>
+Chevaliers, parmi vous qui combattra pour elle ?<lb/>
+N'osez-vous entreprendre une cause si belle ?<lb/>
+Quoi ! Vous restez muets ! Aucun ne sort des rangs !<lb/>
+Aucun pour la sauver ne descend dans la lice !<pb n="55"/>
+Puisqu'un forfait si noir les trouve indifférens,<lb/>
+tonnez, confondez l'injustice,<lb/>
+cieux, obscurcissez-vous de nuages épais ;<lb/>
+éteignez sous leurs flots les feux du sacrifice,<lb/>
+ou guidez au lieu du supplice,<lb/>
+à défaut du tonnerre, un chevalier français.<lb/>
+Après quelques instans d'un horrible silence,<lb/>
+tout à coup le feu brille, il s'irrite, il s'élance...<lb/>
+le coeur de la guerrière alors s'est ranimé ;<lb/>
+à travers les vapeurs d'une fumée ardente,<lb/>
+*Jeanne, encor menaçante,<lb/>
+montre aux anglais son bras à demi consumé.<lb/>
+Pourquoi reculer d'épouvante,<lb/>
+anglais ? Son bras est désarmé.<lb/>
+La flamme l'environne, et sa voix expirante<lb/>
+murmure encore : ô *France ! ô mon roi bien-aimé !<lb/>
+Que faisait-il ce roi ? Plongé dans la mollesse,<lb/>
+tandis que le malheur réclamait son appui,<lb/>
+l'ingrat, il oubliait, aux pieds d'une maîtresse,<lb/>
+la vierge qui mourait pour lui !<lb/>
+Ah ! Qu'une page si funeste<lb/>
+de ce règne victorieux,<lb/>
+pour n'en pas obscurcir le reste,<pb n="56"/>
+s'efface sous les pleurs qui tombent de nos yeux !<lb/>
+Qu'un monument s'élève aux lieux de ta naissance,<lb/>
+ô toi, qui des vainqueurs renversas les projets !<lb/>
+La *France y portera son deuil et ses regrets,<lb/>
+sa tardive reconnaissance ;<lb/>
+elle y viendra gémir sous de jeunes cyprès :<lb/>
+puissent croître avec eux ta gloire et sa puissance !<lb/>
+Que sur l'airain funèbre ou grave des combats,<lb/>
+des étendards anglais fuyant devant tes pas,<lb/>
+*Dieu vengeant par tes mains la plus juste des causes.<lb/>
+Venez, jeunes beautés ; venez, braves soldats ;<lb/>
+semez sur son tombeau les lauriers et les roses !<lb/>
+Qu'un jour le voyageur, en parcourant ces bois,<lb/>
+cueille un rameau sacré, l'y dépose, et s'écrie :<lb/>
+" à celle qui sauva le trône et la patrie,<lb/>
+" et n'obtint qu'un tombeau pour prix de ses exploits. "<lb/>
+notre armée au cercueil eut mon premier hommage ;<lb/>
+mon luth chante aujourd'hui les vertus d'un autre âge :<lb/>
+ai-je trop présumé de ses faibles accens ?<lb/>
+Pour célébrer tant de vaillance,<lb/>
+sans doute il n'a rendu que des sons impuissans ;<pb n="59"/>
+mais, poète et français, j'aime à vanter la *France.<lb/>
+Qu'elle accepte en tribut de périssables fleurs.<lb/>
+Malheureux de ses maux et fier de ses victoires,<lb/>
+je dépose à ses pieds ma joie ou mes douleurs :<lb/>
+j'ai des chants pour toutes ses gloires,<lb/>
+des larmes pour tous ses malheurs.</p>
+			</div>
+			<div>
+				<head>MESS 6 LE JEUNE DIACRE</head>
+				<p>De *Messène au cercueil fille auguste et plaintive,<lb/>
+muse des grands revers et des nobles douleurs,<lb/>
+désertant ton berceau, tu pleuras nos malheurs ;<lb/>
+comme la *Grèce alors la *France était captive...<lb/>
+de *Messène au cercueil fille auguste et plaintive,<lb/>
+reviens sur ton berceau, reviens verser des pleurs.<lb/>
+Entre le mont *évan et le cap de *Ténare,<pb n="60"/>
+la mer baigne les murs de la triste *Coron ;<lb/>
+*Coron, nom malheureux, nom moderne et barbare,<lb/>
+et qui de *Colonis détrôna le beau nom.<lb/>
+Les grecs ont tout perdu : la langue de *Platon,<lb/>
+la palme des combats, les arts et leurs merveilles,<lb/>
+tout, jusqu'aux noms divins qui charmaient nos<lb/>
+oreilles.<lb/>
+Ces murs battus des eaux, à demi renversés<lb/>
+par le choc des boulets que *Venise a lancés,<lb/>
+c'est *Coron. Le croissant en dépeupla l'enceinte ;<lb/>
+le turc y règne en paix au milieu des tombeaux.<lb/>
+Voyez-vous ces turbans errer sur les créneaux ?<lb/>
+Du profane étendard qui chassa la croix sainte<lb/>
+voyez-vous, sur les tours, flotter les crins mouvans ?<lb/>
+Entendez-vous, de loin, la voix de l'infidèle,<lb/>
+qui se mêle au bruit sourd de la mer et des vents ?<lb/>
+Il veille, et le mousquet dans ses mains étincelle.<lb/>
+Au bord de l'horizon le soleil suspendu<lb/>
+regarde cette plage, autrefois florissante,<lb/>
+comme un amant en deuil, qui, pleurant son amante,<lb/>
+cherche encor dans ses traits l'éclat qu'ils ont perdu,<pb n="61"/>
+et trouve, après la mort, sa beauté plus touchante.<lb/>
+Que cet astre, à regret, s'arrache à ses amours !<lb/>
+Que la brise du soir est douce et parfumée !<lb/>
+Que des feux d'un beau jour la mer brille enflammée ! ...<lb/>
+mais pour un peuple esclave il n'est plus de beaux<lb/>
+jours.<lb/>
+Qu'entends-je ? C'est le bruit de deux rames<lb/>
+pareilles,<lb/>
+ensemble s'élevant, tombant d'un même effort,<lb/>
+qui de leur chute égale ont frappé mes oreilles.<lb/>
+Assis dans un esquif, l'oeil tourné vers le bord,<lb/>
+un jeune homme, un chrétien, glisse sur l'onde amère.<lb/>
+Il remplit dans le temple un humble ministère :<lb/>
+ses soins parent l'autel ; debout sur les degrés,<lb/>
+il fait fumer l'encens, répond aux mots sacrés,<lb/>
+et présente le vin durant le saint mystère.<lb/>
+Les rames de sa main s'échappent à la fois ;<lb/>
+un luth qui les remplace a frémi sous ses doigts.<lb/>
+Il chante... ainsi chantaient *David et les prophètes ;<lb/>
+ainsi, troublant le coeur des pâles matelots,<lb/>
+un cri sinistre et doux retentit sur les flots,<lb/>
+quand l'alcyon gémit, au milieu des tempêtes :<pb n="62"/>
+" beaux lieux, où je n'ose m'asseoir,<lb/>
+" pour vous chanter dans ma nacelle<lb/>
+" au bruit des vagues, chaque soir,<lb/>
+" j'accorde ma lyre fidèle ;<lb/>
+" et je pleure sur nos revers,<lb/>
+" comme les hébreux dans les fers,<lb/>
+" quand *Sion descendit du trône,<lb/>
+" pleuraient au pied des saules verts<lb/>
+" près les fleuves de *Babylone.<lb/>
+" mais dans les fers, seigneur, ils pouvaient<lb/>
+t'adorer ;<lb/>
+" du tombeau de leur père ils parlaient sans alarmes ;<lb/>
+" souffrant ensemble, ensemble ils pouvaient espérer :<lb/>
+" il leur était permis de confondre leurs larmes :<lb/>
+" et je m'exile pour pleurer.<lb/>
+" le ministre de ta colère<lb/>
+" prive la veuve et l'orphelin<lb/>
+" du dernier vêtement de lin<lb/>
+" qui sert de voile à leur misère.<lb/>
+" de leurs mains il reprend encor,<lb/>
+" comme un vol fait à son trésor,<lb/>
+" un épi glané dans nos plaines ;<pb n="63"/>
+" et nous ne buvons qu'à prix d'or<lb/>
+" l'eau qui coule de nos fontaines.<lb/>
+" de l'or ! Ils l'ont ravi sur nos autels en deuil ;<lb/>
+" ils ont brisé des morts la pierre sépulcrale,<lb/>
+" et de la jeune épouse écartant le linceuil,<lb/>
+" arraché de son doigt la bague nuptiale,<lb/>
+" qu'elle emporta dans le cercueil.<lb/>
+" ô nature, ta voix si chère<lb/>
+" s'éteint dans l'horreur du danger ;<lb/>
+" sans accourir pour le venger,<lb/>
+" le frère voit frapper son frère ;<lb/>
+" aux tyrans qu'il n'attendait pas<lb/>
+" le vieillard livre le repas<lb/>
+" qu'il a dressé pour sa famille ;<lb/>
+" et la mère, au bruit de leurs pas,<lb/>
+" maudit la beauté de sa fille.<lb/>
+" le lévite est en proie à leur férocité ;<lb/>
+" ils flétrissent la fleur de son adolescence,<lb/>
+" ou, si d'un saint courroux son coeur s'est révolté,<pb n="64"/>
+" chaste victime, il tombe avec son innocence<lb/>
+" sous le bâton ensanglanté.<lb/>
+" les rois, quand il faut nous défendre,<lb/>
+" sont avares de leurs soldats.<lb/>
+" ils se disputent des états,<lb/>
+" des peuples, des cités en cendre ;<lb/>
+" et tandis que, sous les couteaux,<lb/>
+" le sang chrétien, à longs ruisseaux,<lb/>
+" inonde la terre où nous sommes,<lb/>
+" comme on partage des troupeaux,<lb/>
+" les rois se partagent des hommes.<lb/>
+" un récit qui s'efface, ou quelques vains discours,<lb/>
+" à des indifférens parlent de nos misères,<lb/>
+" amuse de nos pleurs l'oisiveté des cours :<lb/>
+" et nous sommes chrétiens, et nous avons des frères,<lb/>
+" et nous expirons sans secours !<lb/>
+" l'oiseau des champs trouve un asile<lb/>
+" dans le nid qui fut son berceau,<lb/>
+" le chevreuil sous un arbrisseau,<pb n="65"/>
+" dans un sillon le lièvre agile ;<lb/>
+" effrayé par un léger bruit,<lb/>
+" le ver qui serpente et s'enfuit<lb/>
+" sous l'herbe ou la feuille qui tombe,<lb/>
+" échappe au pied qui le poursuit...<lb/>
+" notre asile à nous, c'est la tombe !<lb/>
+" heureux qui meurt chrétien ! Grand dieu, leur<lb/>
+cruauté<lb/>
+" veut convertir les coeurs par le glaive et les<lb/>
+flammes<lb/>
+" dans le temple où tes saints prêchaient la vérité,<lb/>
+" où de leur bouche d'or descendaient dans nos ames<lb/>
+" l'espérance et la charité.<lb/>
+" sur ce rivage, où des idoles<lb/>
+" s'éleva l'autel réprouvé,<lb/>
+" ton culte pur s'est élevé<lb/>
+" des semences de leurs paroles.<lb/>
+" mais cet arbre, enfant des déserts,<lb/>
+" qui doit ombrager l'univers,<lb/>
+" fleurit pour nous sur des ruines,<lb/>
+" ne produit que des fruits amers,<lb/>
+" et meurt tranché dans ses racines.<pb n="66"/>
+" ô dieu, la *Grèce libre en ses jours glorieux<lb/>
+" n'adorait pas encor ta parole éternelle ;<lb/>
+" chrétienne, elle est aux fers, elle invoque les cieux.<lb/>
+" dieu vivant, seul vrai dieu, feras-tu moins pour elle<lb/>
+" que *Jupiter et ses faux dieux ? "<lb/>
+il chantait, il pleurait, quand d'une tour voisine<lb/>
+un musulman se lève, il court, il est armé.<lb/>
+Le turban du soldat sur son mousquet s'incline,<lb/>
+l'étincelle jaillit, le salpêtre a fumé,<lb/>
+l'air siffle, un cri s'entend... l'hymne pieux expire.<lb/>
+Ce cri, qui l'a poussé ? Vient-il de ton esquif ?<lb/>
+Est-ce toi qui gémis, *Lévite ? Est-ce ta lyre<lb/>
+qui roule de tes mains avec ce bruit plaintif ?<lb/>
+Mais de la nuit déjà tombait le voile sombre ;<lb/>
+la barque, se perdant sous un épais brouillard,<lb/>
+et sans rame, et sans guide, errait comme au hasard ;<lb/>
+elle resta muette et disparut dans l'ombre.<lb/>
+La nuit fut orageuse. Aux premiers feux du jour,<lb/>
+du golfe avec terreur mesurant l'étendue,<lb/>
+un vieillard attendait, seul, au pied de la tour.<lb/>
+Sous des flocons d'écume un luth frappe sa vue,<pb n="67"/>
+un luth qu'un plomb mortel semble avoir traversé,<lb/>
+qui n'a plus qu'une corde à demi détendue,<lb/>
+humide et rouge encor d'un sang presque effacé.<lb/>
+Il court vers ce débris, il se baisse, il le touche...<lb/>
+d'un frisson douloureux soudain son corps frémit ;<lb/>
+sur les tours de *Coron il jette un oeil farouche !<lb/>
+Veut crier... la menace expire dans sa bouche ;<lb/>
+il tremble à leur espect, se détourne et gémit.<lb/>
+Mais du poids qui l'oppresse enfin son coeur se<lb/>
+lasse ;<lb/>
+il fuit des yeux cruels qui gênent ses douleurs ;<lb/>
+et regardant les cieux, seul témoin de ses pleurs,<lb/>
+le long des flots bruyans il murmure à voix basse :<lb/>
+" je t'attendais hier, je t'attendis long-temps ;<lb/>
+" tu ne reviendras plus, et c'est toi qui m'attends ! "</p>
+			</div>
+			<div>
+				<head>MESS 7 PARTHNOPE ET L'éTRANG.</head>
+				<pb n="69"/>
+				<p>ô femme, que veux-tu ? -*Parthénope, un asile.<lb/>
+-quel est ton crime ? -aucun. -qu'as-tu fait ?<lb/>
+-des ingrats.<lb/>
+-quels sont tes ennemis ? -ceux qu'affranchit mon<lb/>
+bras ;<lb/>
+hier on m'adorait, aujourd'hui l'on m'exile.<lb/>
+-comment dois-tu payer mon hospitalité ?<lb/>
+-par des périls d'un jour et des lois éternelles.<lb/>
+-qui t'osera poursuivre au sein de ma cité ?<lb/>
+-des rois. -quand viendront-ils ? -demain. -de<lb/>
+quel côté ?<lb/>
+-de tous... eh bien ! Pour moi tes portes<lb/>
+s'ouvrent-elles ?<lb/>
+-entre ; quel est ton nom ? -je suis la liberté !<lb/>
+Recevez-la, remparts antiques,<lb/>
+par elle autrefois habités ;<lb/>
+au rang de vos divinités<lb/>
+recevez-la, sacrés portiques ;<pb n="70"/>
+levez-vous, ombres héroïques,<lb/>
+faites cortége à ses côtés.<lb/>
+Beau ciel napolitain, rayonne d'allégresse ;<lb/>
+ô terre, enfante des soldats ;<lb/>
+et vous, peuples, chantez ; peuples, c'est la déesse<lb/>
+pour qui mourut *Léonidas.<lb/>
+Sa tête a dédaigné des ornemens futiles :<lb/>
+les siens sont quelques fleurs qui semblent<lb/>
+s'entr'ouvrir ;<lb/>
+le sang les fit éclore au pied des thermopyles :<lb/>
+deux mille ans n'ont pu les flétrir.<lb/>
+Sa couronne immortelle exhale sur sa trace<lb/>
+je ne sais quel parfum dont s'enivre l'audace ;<lb/>
+sa voix terrible et douce a des accens vainqueurs,<lb/>
+qui ne trouvent point de rebelle ;<lb/>
+ses yeux d'un saint amour font palpiter les coeurs,<lb/>
+et la vertu seule est plus belle.<lb/>
+Le peuple se demande, autour d'elle arrêté,<lb/>
+comment elle a des rois encouru la colère.<lb/>
+" hélas ! Répond cette noble étrangère,<lb/>
+" je leur ai dit la vérité.<lb/>
+" si jamais sous mon nom l'imprudence ou la haine<pb n="71"/>
+" ébranla leur pouvoir, que je veux contenir,<lb/>
+" est-ce à moi d'en porter la peine ?<lb/>
+" est-ce aux germains à m'en punir ?<lb/>
+" ont-ils donc oublié, ces vaincus de la veille,<lb/>
+" ces esclaves d'hier, aujourd'hui vos tyrans,<lb/>
+" que leurs cris de détresse ont frappé mon oreille,<lb/>
+" qu'auprès d'*Arminius j'ai marché dans leurs rangs ?<lb/>
+" seule, j'ai rallié leurs peuplades tremblantes ;<lb/>
+" et, de la *Germanie armant les défenseurs,<lb/>
+" j'ai creusé de mes mains, dans ses neiges sanglantes,<lb/>
+" un lit de mort aux oppresseurs.<lb/>
+" vengez-moi, justes dieux qui voyez mes outrages.<lb/>
+" puisse le souvenir de mes bienfaits passés<lb/>
+" poursuivre ces ingrats, par l'effroi dispersés !<lb/>
+" puissent les fils d'*Odin errans sur les nuages,<lb/>
+" le front chargé d'orages,<lb/>
+" la nuit leur apparaître à la lueur des feux !<lb/>
+" et puissent les débris des légions romaines,<lb/>
+" dont j'ai blanchi leurs plaines,<lb/>
+" se lever devant eux !<pb n="72"/>
+" que dis-je ? *Rome entière est-elle ensevelie<lb/>
+" dans la poudre de leurs sillons ?<lb/>
+" mon pied, frappant le sein de l'antique *Italie,<lb/>
+" en fait jaillir des bataillons.<lb/>
+" *Rome, ne sens-tu pas, au fond de tes entrailles,<lb/>
+" s'agiter les froids ossemens<lb/>
+" des guerriers citoyens, que tant de funérailles<lb/>
+" ont couchés sous tes monumens ?<lb/>
+" génois, brisez vos fers ; la mer impatiente<lb/>
+" de vous voir secouer un indigne repos,<lb/>
+" se gonfle avec orgueil sous la forêt flottante<lb/>
+" où vous arborez mes drapeaux.<lb/>
+" veuve des *Médicis, renais, noble *Florence !<lb/>
+" préfère à ton repos tes droits que je défends ;<lb/>
+" préfère à l'esclavage, où dorment tes enfans,<lb/>
+" ton orageuse indépendance.<lb/>
+" ô fille de *Neptune, ô *Venise, ô cité<lb/>
+" belle comme *Vénus, et qui sortis comme elle<lb/>
+" de l'écume des flots, surpris de ta beauté,<lb/>
+" épouvante *Albion d'une splendeur nouvelle.<lb/>
+" *Doge, règne en mon nom ; sénat, reconnais-moi ;<pb n="73"/>
+" réveille-toi, *Zéno ; *Pisani, lève-toi :<lb/>
+" c'est la liberté qui t'appelle. "<lb/>
+elle dit : à sa voix s'agite un peuple entier.<lb/>
+Dans la fournaise ardente<lb/>
+je vois blanchir l'acier :<lb/>
+j'entends le fer crier<lb/>
+sous la lime mordante ;<lb/>
+l'enclume au loin gémit, l'airain sonne, un guerrier<lb/>
+prépare à ce signal sa lance menaçante,<lb/>
+un autre son coursier.<lb/>
+Le père chargé d'ans, mais jeune encor d'audace,<lb/>
+arme son dernier fils, le devance et prend place<lb/>
+au milieu des soldats.<lb/>
+Arrêté par sa soeur qui rit de sa colère,<lb/>
+l'enfant dit à sa mère :<lb/>
+je veux mourir dans les combats.<lb/>
+Que n'auraient-ils pas fait, ceux en qui la vaillance<lb/>
+avait la force pour appui ?<lb/>
+Quel homme dans la fuite eût mis son espérance,<pb n="74"/>
+et quel homme aurait craint pour lui<lb/>
+cette mort que cherchaient la vieillesse et<lb/>
+l'enfance ?<lb/>
+Ils s'écrièrent tous d'une commune voix :<lb/>
+" assis sous ton laurier que nous courons défendre,<lb/>
+" *Virgile, prends ta lyre et chante nos exploits ;<lb/>
+" jamais un oppresseur ne foulera ta cendre. "<lb/>
+ils partirent alors ces peuples belliqueux,<lb/>
+et trente jours plus tard, oppresseur et tranquille,<lb/>
+le germain triomphant s'enivrait avec eux<lb/>
+au pied du laurier de *Virgile.<lb/>
+La liberté fuyait en détournant les yeux,<lb/>
+quand *Parthénope la rappelle.<lb/>
+La déesse un moment s'arrête au haut des cieux ;<lb/>
+" tu m'as trahie ; adieu, dit-elle,<lb/>
+je pars. -quoi ! Pour toujours ? -on m'attend.<lb/>
+-dans quel lieu ?<lb/>
+-en *Grèce. -on y suivra tes traces fugitives.<lb/>
+-j'aurai des défenseurs. -là, comme sur mes rives,<lb/>
+on peut céder au nombre. -oui, mais on meurt ;<lb/>
+adieu ! "</p>
+			</div>
+			<div>
+				<head>MESS 8 AUX RUINES GRèCE PAïENNE</head>
+				<pb n="75"/>
+				<p>ô sommets de *Taygète, ô rives du *Pénée,<lb/>
+de la sombre *Tempé vallons silencieux,<lb/>
+ô campagnes d'*Athène, ô *Grèce infortunée,<lb/>
+où sont pour t'affranchir tes guerriers et tes dieux ?<lb/>
+Doux pays, que de fois ma muse en espérance<lb/>
+se plut à voyager sous ton ciel toujours pur !<lb/>
+De ta paisible mer, où *Vénus prit naissance,<lb/>
+tantôt du haut des monts je contemplais l'azur,<lb/>
+tantôt, cachant au jour ma tête ensevelie<lb/>
+sous tes bosquets hospitaliers,<lb/>
+j'arrêtais vers le soir, dans un bois d'oliviers,<lb/>
+un vieux pâtre de *Thessalie.<pb n="76"/>
+" des dieux de ce vallon contez-moi les secrets,<lb/>
+" berger ; quelle déesse habite ces fontaines ?<lb/>
+" voyez-vous quelquefois les nymphes des forêts<lb/>
+" entr'ouvrir l'écorce des chênes ?<lb/>
+" *Bacchus vient-il encor féconder vos coteaux ?<lb/>
+" ce gazon que rougit le sang d'un sacrifice,<lb/>
+" est-ce un autel aux dieux des champs et des troupeaux ?<lb/>
+" est-ce le tombeau d'*Eurydice ? "<lb/>
+mais le pâtre répond par ses gémissemens :<lb/>
+c'est sa fille au cercueil qui dort sous ces<lb/>
+bruyères ;<lb/>
+ce sang qui fume encor, c'est celui de ses frères<lb/>
+égorgés par les musulmans.<lb/>
+ô sommets de *Taygète, ô rives du *Pénée,<lb/>
+de la sombre *Tempé vallons silencieux,<lb/>
+ô campagnes d'*Athène, ô *Grèce infortunée,<lb/>
+où sont pour t'affranchir tes guerriers et tes dieux ?<lb/>
+" quelle cité jadis a couvert ces collines ?<lb/>
+" *Sparte, répond mon guide... " eh quoi ! Ces murs<lb/>
+déserts,<lb/>
+quelques pierres sans nom, des tombeaux, des ruines,<lb/>
+voilà *Sparte, et sa gloire a rempli l'univers !<lb/>
+Le soldat d'*Ismaël, assis sur ces décombres,<pb n="77"/>
+insulte aux grandes ombres<lb/>
+des enfans d'*Hercule en courroux.<lb/>
+N'entends-je pas gémir sous ces portiques sombres ?<lb/>
+Mânes des trois cents, est-ce vous ? ...<lb/>
+*Eurotas, *Eurotas, que font ces lauriers-roses<lb/>
+sur ton rivage en deuil, par la mort habité ?<lb/>
+Est-ce pour faire outrage à ta captivité<lb/>
+que ces nobles fleurs sont écloses ?<lb/>
+Non, ta gloire n'est plus ; non, d'un peuple puissant<lb/>
+tu ne reverras plus la jeunesse héroïque<lb/>
+laver parmi tes lis ses bras couverts de sang,<lb/>
+et dans ton cristal pur sous ses pas jaillissant<lb/>
+secouer la poudre olympique.<lb/>
+C'en est fait, et ces jours que sont-ils devenus,<lb/>
+où le cygne argenté, tout fier de sa parure,<lb/>
+des vierges dans ses jeux caressait les pieds nus,<lb/>
+où tes roseaux divins rendaient un doux murmure,<lb/>
+où réchauffant *Léda pâle de volupté,<lb/>
+froide et tremblante encore au sortir de tes ondes,<lb/>
+dans le sein qu'il couvrait de ses ailes fécondes,<pb n="78"/>
+un dieu versait la vie et l'immortalité ?<lb/>
+C'en est fait ; et le cygne, exilé d'une terre<lb/>
+où l'on enchaîne la beauté,<lb/>
+devant l'éclat du cimeterre<lb/>
+a fui comme la liberté.<lb/>
+ô sommets de *Taygète, ô rives du *Pénée,<lb/>
+de la sombre *Tempé vallons silencieux,<lb/>
+ô campagnes d'*Athène, ô *Grèce infortunée,<lb/>
+où sont pour t'affranchir tes guerriers et tes dieux ?<lb/>
+Ils sont sur tes débris ! Aux armes ! Voici l'heure<lb/>
+où le fer te rendra les beaux jours que je pleure !<lb/>
+Voici la liberté, tu renais à son nom ;<lb/>
+vierge comme *Minerve, elle aura pour demeure<lb/>
+ce qui reste du parthénon.<lb/>
+Des champs de *Sunium, des bois du *Cythéron,<lb/>
+descends, peuple chéri de *Mars et de *Neptune !<lb/>
+Vous, relevez les murs ; vous, préparez les dards !<pb n="79"/>
+Femmes, offrez vos voeux sur ces marbres épars :<lb/>
+là fut l'autel de la fortune.<lb/>
+Autour de ce rocher rassemblez-vous, vieillards :<lb/>
+ce rocher portait la tribune ;<lb/>
+sa base encor debout parle encore aux héros<lb/>
+qui peuplent la nouvelle *Athènes :<lb/>
+prêtez l'oreille... il a retenu quelques mots<lb/>
+des harangues de *Démosthènes.<lb/>
+Guerre, guerre aux tyrans ! Nochers ! Fendez les<lb/>
+flots !<lb/>
+Du haut de son tombeau *Thémistocle domine<lb/>
+sur ce port qui l'a vu si grand ;<lb/>
+et la mer à vos pieds s'y brise en murmurant<lb/>
+le nom sacré de *Salamine.<lb/>
+Guerre aux tyrans ! Soldats, le voilà ce clairon<lb/>
+qui des perses jadis a glacé le courage !<lb/>
+Sortez par ce portique, il est d'heureux présage :<lb/>
+pour revenir vainqueur, par là sortit *Cimon.<lb/>
+C'est là que de son père on suspendit l'image !<lb/>
+Partez, marchez, courez, vous courez au carnage,<lb/>
+c'est le chemin de *Marathon !<pb n="80"/>
+ô sommets de *Taygète, ô débris du *Pyrée,<lb/>
+ô *Sparte, entendez-vous leurs cris victorieux ?<lb/>
+La *Grèce a des vengeurs, la *Grèce est délivrée,<lb/>
+la *Grèce a retrouvé ses héros et ses dieux !</p>
+			</div>
+			<div>
+				<head>MESS 9 TYRTéE AUX GRECS</head>
+				<pb n="81"/>
+				<p>" le soleil a paru : sa clarté menaçante<lb/>
+du fer des boucliers jaillit en longs reflets.<lb/>
+Les guerriers sont debout, immobiles, muets ;<lb/>
+ils pressent de leurs dents leur lèvre frémissante.<lb/>
+Tous, pleins d'un vague effroi qu'ils ont peine à<lb/>
+cacher,<lb/>
+attendent le péril, sans pouvoir le chercher.<lb/>
+Moment d'un siècle ! Horrible attente !<lb/>
+Ah ! Quand donnera-t-on le signal de marcher ?<lb/>
+Vieillard, garde ton rang... mais il court, il<lb/>
+s'écrie :<lb/>
+" le signal est donné de vaincre ou de mourir ;<lb/>
+" ma vie est mon seul bien, je l'offre à la patrie :<lb/>
+" liberté, je cours te l'offrir. "<lb/>
+opprobre à tout guerrier dans la vigueur de l'âge,<pb n="82"/>
+qui s'enfuit comme un lâche en spectacle au vainqueur,<lb/>
+tandis que ce vieillard prodigue avec courage<lb/>
+un reste de vieux sang qui réchauffait son coeur !<lb/>
+Sous les pieds des coursiers il se dresse, il présente<lb/>
+sa barbe blanchissante,<lb/>
+l'intrépide pâleur de son front irrité ;<lb/>
+tombe, expire ; et le fer, qu'il voit sans épouvante,<lb/>
+de sa bouche expirante<lb/>
+arrache avec son ame un cri de liberté.<lb/>
+Liberté ! Liberté ! Viens, reçois sa grande ame !<lb/>
+Devance nos coursiers sur tes ailes de flamme ;<lb/>
+viens, liberté, marchons. Aux vautours dévorans<lb/>
+que nos corps, si tu veux, soient jetés en pâture :<lb/>
+il est cent fois plus doux de rester dans tes rangs,<lb/>
+vaincus, morts et sans sépulture,<lb/>
+que de vaincre pour les tyrans.<lb/>
+Gloire à nous ! Gloire au courage !<lb/>
+Gloire à nos vaillans efforts !<lb/>
+à nous le champ du carnage !<lb/>
+à nous les restes des morts !<lb/>
+Rapportons dans nos murailles<pb n="83"/>
+ceux qu'aux glaives des batailles<lb/>
+le dieu *Mars avait promis :<lb/>
+citoyens, voilà vos frères !<lb/>
+Ils ont pour lits funéraires<lb/>
+les drapeaux des ennemis.<lb/>
+Survivre à sa victoire, ô douce et noble vie !<lb/>
+Mourir victorieux, ô mort digne d'envie !<lb/>
+Il rentre sans blessure, et non pas sans lauriers,<lb/>
+l'heureux vengeur de nos dieux domestiques.<lb/>
+Quels bras reconnaissans ont dressé ces portiques ?<lb/>
+Que de fleurs sur ses pas ! Que d'emblèmes guerriers !<lb/>
+Le peuple, aux jeux publics où ce héros préside,<lb/>
+se lève devant son appui ;<lb/>
+le vieillard lui fait place, et la vierge timide<lb/>
+le montre à sa compagne en murmurant : c'est lui !<lb/>
+Il rentre le vainqueur, mais porté sur ses armes.<lb/>
+Est-il pour son bûcher d'appareil assez beau ?<lb/>
+Pour le pleurer est-il assez de larmes ?<lb/>
+Est-il marbre assez pur pour orner son tombeau ?<lb/>
+Ses exploits sont chantés, sa mémoire est chérie ;<lb/>
+il monte au rang des dieux qu'adore la patrie.<lb/>
+Elle comble d'honneurs ses mânes triomphans,<pb n="84"/>
+et son père, et ses fils, et sa famille entière,<lb/>
+et les enfans de ses enfans<lb/>
+dans leur postérité dernière. "<lb/>
+debout, la lyre en main, à l'aspect des deux camps,<lb/>
+ainsi chantait le vieux *Tyrtée.<lb/>
+Pour la *Grèce ressuscitée<lb/>
+que ne puis-je aujourd'hui ressusciter ses chants !<lb/>
+Je vous dirais, ô grecs, ressemblez à vos pères :<lb/>
+soyez libres comme eux, ou mourez en héros.<lb/>
+Jadis vous combattiez vos frères,<lb/>
+et vous combattez vos bourreaux.<lb/>
+Ils viennent ! Aux clartés dont la mer se colore<lb/>
+j'ai reconnu leurs pavillons.<lb/>
+Quel volcan a lancé ces épais tourbillons ?<lb/>
+Dans l'ombre de la nuit quelle effroyable aurore ! ...<lb/>
+la dernière pour toi, que la flamme dévore,<lb/>
+*Chio, tu vois tomber tes pieux monumens.<lb/>
+Ils tombent ces palais que l'art en vain décore ;<pb n="85"/>
+et de ces bois en fleurs, où de tendres sermens<lb/>
+hier retentissaient encore,<lb/>
+sortent de longs gémissemens.<lb/>
+Ouvrez les yeux, ô grecs ! ô grecs, prêtez l'oreille :<lb/>
+vous verrez le tombeau, vous entendrez les cris<lb/>
+de tout un peuple qui s'éveille,<lb/>
+poursuivi par le fer, la foudre et les débris ;<lb/>
+vous verrez une plage horrible, inhabitée,<lb/>
+où, chassé par les feux vainqueurs de ses efforts,<lb/>
+le flot qui se recule en roulant sur des morts,<lb/>
+laisse une écume ensanglantée.<lb/>
+Vengez vos frères massacrés,<lb/>
+vengez vos femmes expirantes ;<lb/>
+les loups se sont désaltérés<lb/>
+dans leurs entrailles palpitantes.<lb/>
+Vengez-les, vengez-vous ! ... *Ténédos ! *Ténédos !<lb/>
+Deux esquifs à ta voix ont sillonné les flots :<lb/>
+tels, vomis par ton sein sur la plaine azurée,<lb/>
+s'avançaient ces serpens hideux,<pb n="86"/>
+se dressant, perçant l'air de leur langue acérée,<lb/>
+de leurs anneaux mouvans fouettant l'onde autour<lb/>
+d'eux,<lb/>
+quand la triste *Ilion les vit sous ses murailles,<lb/>
+à leur triple victime attachés tous les deux,<lb/>
+la saisir, l'enlacer de leurs flexibles noeuds,<lb/>
+l'emprisonner dans leurs écailles.<lb/>
+Tels et plus terribles encor,<lb/>
+ces deux esquifs de front fendent les mers profondes.<lb/>
+De vos rames battez les ondes,<lb/>
+allez, vers ce vaisseau cinglez d'un même essor.<lb/>
+L'incendie a glissé sous la carène ardente ;<lb/>
+il se dresse à la poupe, il siffle autour des flancs ;<lb/>
+de cordage en cordage il s'élance, il serpente,<lb/>
+enveloppe les mâts de ses replis brûlans ;<lb/>
+de sa langue de feu, qui s'alonge à leur cime,<lb/>
+saisit leurs pavillons consumés dans les airs,<lb/>
+et, pour la dévorer, embrassant la victime<lb/>
+avec ses mâts rompus, ses ponts, ses flancs ouverts,<lb/>
+ses foudres, ses nochers engloutis par les mers,<lb/>
+s'enfonce en grondant dans l'abîme.<pb n="87"/>
+Ah ! Puisses-tu toujours triompher et punir !<lb/>
+Ce sont mes voeux, ô *Grèce, et, devançant l'histoire,<lb/>
+jadis l'heureux *Tyrtée eût prédit ta victoire.<lb/>
+Alors c'était le temps cher à ton souvenir,<lb/>
+où les amans des filles de mémoire,<lb/>
+comme dans le passé lisaient dans l'avenir.<lb/>
+Mais du jour qu'infidèle à ces vierges célestes,<lb/>
+leur hommage adultère a cherché les tyrans,<lb/>
+du jour qu'ils ont changé leurs parures modestes<lb/>
+contre quelques lambeaux de la pourpre des grands,<lb/>
+qu'ils ont d'un art divin profané les miracles,<lb/>
+en illustrant le vice, en consacrant l'erreur,<lb/>
+à leur bouche vénale *Apollon en fureur<lb/>
+a ravi le don des oracles.<lb/>
+Condamne-toi, ma muse, à de stériles voeux :<pb n="88"/>
+mais refuse tes chants aux oppresseurs heureux.<lb/>
+Que de la vérité tes vers soient les esclaves ;<lb/>
+de ses chastes faveurs faisons nos seuls amours ;<lb/>
+sans orgueil préférons toujours<lb/>
+une pauvreté libre à de riches entraves ;<lb/>
+et si quelque mortel justement respecté<lb/>
+entend frémir pour lui les cordes de ma lyre,<lb/>
+ô ma muse ! Qu'il puisse dire :<lb/>
+" s'il ne m'admirait pas, il ne m'eût pas chanté ! "</p>
+			</div>
+			<div>
+				<head>MESS 10 LE VOYAGEUR</head>
+				<pb n="89"/>
+				<p>" tu nous rends nos derniers signaux ;<lb/>
+" le long du bord le câble crie ;<lb/>
+" l'ancre s'élève et sort des eaux ;<lb/>
+" la voile s'ouvre ; adieu, patrie !<lb/>
+" des flots l'un par l'autre heurtés<lb/>
+" je vois fuir les cimes mouvantes,<lb/>
+" comme les flocons argentés<lb/>
+" des toisons sur nos monts errantes.<lb/>
+" je vois se dérouler les noeuds<lb/>
+" qui mesurent l'humide plaine,<pb n="90"/>
+" et je vogue, averti par eux<lb/>
+" que loin de toi le vent m'entraîne.<lb/>
+" doux pays, bois sacrés, beaux lieux,<lb/>
+" je pars, et pour toujours peut-être ! "<lb/>
+disait un grec dans ses adieux<lb/>
+à *Cypre qui l'avait vu naître ;<lb/>
+" sur vos rives la liberté,<lb/>
+" ainsi que la gloire, est proscrite ;<lb/>
+" je pars, je les suis, et je quitte<lb/>
+" le beau ciel qu'elles ont quitté. "<lb/>
+il chercha la liberté sainte<lb/>
+d'*Agrigente aux vallons d'*Enna ;<lb/>
+sa flamme antique y semble éteinte,<lb/>
+comme les flammes de l'*Etna.<lb/>
+à *Naple, il trouva son idole<lb/>
+qui tremblait un glaive à la main ;<pb n="91"/>
+il vit *Rome, et pas un romain<lb/>
+sur les débris du capitole !<lb/>
+ô *Venise, il vit tes guerriers ;<lb/>
+mais ils ont perdu leur audace<lb/>
+plus vite que tes gondoliers<lb/>
+n'ont oublié les vers du *Tasse.<lb/>
+Il chercha sous le ciel du nord<lb/>
+pour les grecs un autre *Alexandre...<lb/>
+ah ! Dit-il, le *Phénix est mort,<lb/>
+et ne renaît plus de sa cendre !<lb/>
+à *Vienne, il apprit dans les rangs<lb/>
+des oppresseurs de l'*Ausonie<lb/>
+que le succès change en tyrans<lb/>
+les vainqueurs de la tyrannie.<lb/>
+Il trouva les anglais trop fiers ;<lb/>
+*Albion se dit magnanime ;<pb n="92"/>
+des noirs elle a brisé les fers,<lb/>
+et ce sont les blancs qu'elle opprime ;<lb/>
+il parcourt *Londre, en y cherchant<lb/>
+cet homme, l'effroi de la terre,<lb/>
+dont la splendeur à son couchant<lb/>
+pour tombeau choisit l'*Angleterre.<lb/>
+Mais elle a craint ce prisonnier,<lb/>
+et, reculant devant sa gloire,<lb/>
+a mis l'océan tout entier<lb/>
+entre un seul homme et la victoire.<lb/>
+Sur toi, *Cadix, il vient pleurer :<lb/>
+nos soldats couvraient ton rivage ;<lb/>
+il vient, maudissant leur courage ;<lb/>
+il part, de peur de l'admirer.<lb/>
+*Paris l'appelle ; au seuil d'un temple<lb/>
+le grec, dans nos murs arrêté,<pb n="93"/>
+sur l'autel voit la liberté...<lb/>
+mais c'est un marbre qu'il contemple,<lb/>
+semblable à ces dieux inconnus,<lb/>
+à ces images immortelles<lb/>
+dont les formes sont encor belles,<lb/>
+dont la divinité n'est plus.<lb/>
+Pour revoir son île chérie,<lb/>
+il franchit les flots écumans ;<lb/>
+mais le courroux des musulmans<lb/>
+avait passé sur sa patrie.<lb/>
+Des débris en couvraient les bords,<lb/>
+et de leur cendre amoncelée<lb/>
+les vautours, prenant leur volée,<lb/>
+emportaient les lambeaux des morts.<pb n="94"/>
+Il dit, s'élançant dans l'abîme :<lb/>
+" les peuples sont nés pour souffrir ;<lb/>
+" noir océan, prends ta victime,<lb/>
+" s'il faut être esclave ou mourir ! "<lb/>
+ainsi l'alcyon, moins timide,<lb/>
+part et se croit libre en quittant<lb/>
+la rive où sa mère l'attend<lb/>
+dans le nid qu'il a laissé vide.<lb/>
+Il voltige autour des palais,<lb/>
+orgueil de la cité prochaine,<lb/>
+et voit ses frères qu'on enchaîne,<lb/>
+se débattre dans des filets.<lb/>
+Il voit le rossignol, qui chante<lb/>
+les amours et la liberté,<lb/>
+puni par la captivité<lb/>
+des doux sons de sa voix touchanté.<lb/>
+De l'*Olympe il voit l'aigle altier<lb/>
+briser, pour sortir d'esclavage,<pb n="95"/>
+son front royal et prisonnier<lb/>
+contre les barreaux de sa cage.<lb/>
+Vers sa mère il revient tremblant,<lb/>
+et l'appelle en vain sur la rive,<lb/>
+où flotte le duvet sanglant<lb/>
+de quelque plume fugitive.<lb/>
+L'oiseau reconnait ces débris ;<lb/>
+il suit le flot qui les emporte,<lb/>
+rase l'onde en poussant des cris,<lb/>
+plonge et meurt... où sa mère est morte.</p>
+			</div>
+			<div>
+				<head>MESS 11 à NAPOLéON</head>
+				<pb n="97"/>
+				<p>De lumière et d'obscurité,<lb/>
+de néant et de gloire étonnant assemblage,<lb/>
+astre fatal aux rois comme à la liberté ;<lb/>
+au plus haut de ton cours porté par un orage,<lb/>
+et par un orage emporté,<lb/>
+toi, qui n'as rien connu, dans ton sanglant passage,<lb/>
+d'égal à ton bonheur que ton adversité ;<lb/>
+*Dieu mortel, sous tes pieds les monts courbant leurs<lb/>
+têtes<lb/>
+t'ouvraient un chemin triomphal ;<lb/>
+les élémens soumis attendaient ton signal :<lb/>
+d'une nuit pluvieuse écartant les tempêtes,<lb/>
+pour éclairer tes fêtes,<lb/>
+le soleil t'annonçait sur son char radieux ;<pb n="98"/>
+l'*Europe t'admirait dans une horreur profonde,<lb/>
+et le son de ta voix, un signe de tes yeux,<lb/>
+donnaient une secousse au monde.<lb/>
+Ton souffle du chaos faisait sortir les lois ;<lb/>
+ton image insultait aux dépouilles des rois,<lb/>
+et, debout sur l'airain de leurs foudres guerrières,<lb/>
+entretenait le ciel du bruit de tes exploits.<lb/>
+Les cultes renaissans, étonnés d'être frères,<lb/>
+sur leurs autels rivaux, qui fumaient à la fois,<lb/>
+pour toi confondaient leurs prières.<lb/>
+" conservez, disaient-ils, le vainqueur du *Thabor,<lb/>
+" conservez le vainqueur du *Tibre ; "<lb/>
+que n'ont-ils pour ta gloire ajouté plus encor :<lb/>
+" *Dieu juste, conservez le roi d'un peuple libre ! "<lb/>
+tu régnerais encor si tu l'avais voulu.<lb/>
+Fils de la liberté, tu détrônas ta mère.<lb/>
+Armé contre ses droits d'un pouvoir éphémère,<lb/>
+tu croyais l'accabler, tu l'avais résolu !<pb n="99"/>
+Mais le tombeau creusé pour elle<lb/>
+dévore tôt ou tard le monarque absolu :<lb/>
+un tyran tombe ou meurt ; seule elle est immortelle.<lb/>
+Justice, droits, sermens, peux-tu rien respecter ?<lb/>
+D'un antique lien périsse la mémoire !<lb/>
+L'*Espagne est notre soeur de dangers et de gloire ;<lb/>
+tu la veux pour esclave, et n'osant ajouter<lb/>
+à ta double couronne un nouveau diadème,<lb/>
+sur son trône conquis ton orgueil veut jeter<lb/>
+un simulacre de toi-même.<lb/>
+Mais non, tu l'espérais en vain.<lb/>
+Ses prélats, ses guerriers l'un l'autre s'excitèrent,<lb/>
+les croyances du peuple à leur voix s'exaltèrent.<lb/>
+Quels signes précurseurs d'un désastre prochain !<lb/>
+Le beffroi, qu'ébranlait une invisible main,<lb/>
+s'éveillait de lui-même et sonnait les alarmes ;<lb/>
+les images des preux s'agitaient sous leurs armes ;<lb/>
+on avait vu des pleurs mouiller leurs yeux d'airain ;<lb/>
+on avait vu le sang du sauveur de la terre<lb/>
+des flancs du marbre ému sortir à longs ruisseaux ;<pb n="100"/>
+les morts erraient dans l'ombre, et ces cris : guerre !<lb/>
+Guerre !<lb/>
+S'élevaient du fond des tombeaux.<lb/>
+Une nuit, c'était l'heure où les songes funèbres<lb/>
+apportent aux vivans les leçons du cercueil ;<lb/>
+où le second *Brutus vit son génie en deuil<lb/>
+se dresser devant lui dans l'horreur des ténèbres ;<lb/>
+où *Richard, tourmenté d'un sommeil sans repos,<lb/>
+vit les mânes vengeurs de sa famille entière,<lb/>
+rangés autour de ses drapeaux,<lb/>
+le maudire et crier : voilà ta nuit dernière !<lb/>
+*Napoléon veillait, seul et silencieux :<lb/>
+la fatigue inclinait cette tête puissante<lb/>
+sur la carte immobile où s'attachaient ses yeux ;<lb/>
+trois guerrières, trois soeurs parurent sous sa tente.<lb/>
+Pauvre et sans ornemens, belle de ses hauts faits,<lb/>
+la première semblait une vierge romaine<lb/>
+le front ceint d'un rameau de chêne,<lb/>
+elle appuyait son bras sur un drapeau français.<lb/>
+Il rappelait un jour d'éternelle mémoire ;<lb/>
+trois couleurs rayonnaient sur ses lambeaux sacrés<pb n="101"/>
+par la foudre noircis, poudreux et déchirés,<lb/>
+mais déchirés par la victoire.<lb/>
+" je t'ai connu soldat ; salut : te voilà roi.<lb/>
+" de *Marengo la terrible journée<lb/>
+" dans tes fastes, dit-elle, a pris place après moi ;<lb/>
+" salut ; je suis sa soeur aînée.<lb/>
+" je te guidais au premier rang ;<lb/>
+" je protégeai ta course et dictai la parole<lb/>
+" qui ranima des tiens le courage expirant,<lb/>
+" lorsque la mort te vit si grand,<lb/>
+" qu'elle te respecta sous les foudres d'*Arcole.<lb/>
+" tu changeas mon drapeau contre un sceptre d'airain :<lb/>
+" tremble, je vois pâlir ton étoile éclipsée.<lb/>
+" la force est sans appui, du jour qu'elle est sans<lb/>
+frein.<lb/>
+" adieu, ton règne expire et ta gloire est passée. "<lb/>
+la seconde unissait aux palmes des déserts<lb/>
+les dépouilles d'*Alexandrie.<lb/>
+Les feux dont le soleil inonde sa patrie,<lb/>
+de ses brûlans regards allumaient les éclairs.<pb n="102"/>
+Sa main, par la conquête armée,<lb/>
+dégouttante du sang des descendans d'*Omar,<lb/>
+tenait le glaive de *César<lb/>
+et le compas de *Ptolémée.<lb/>
+" je t'ai connu banni ; salut : te voilà roi.<lb/>
+" du mont *Thabor la brillante journée<lb/>
+" dans tes fastes, dit-elle, a pris place après moi ;<lb/>
+" salut ! Je suis sa soeur aînée.<lb/>
+" je te dois l'éclat immortel<lb/>
+" du nom que je reçus aux pieds des pyramides.<lb/>
+" j'ai vu les turbans d'*Ismaël<lb/>
+" foulés au bord du *Nil par tes coursiers rapides.<lb/>
+" les arts sous ton égide avaient placé leurs fils,<lb/>
+" quand des restes muets de *Thèbe et de *Memphis<lb/>
+" ils interrogeaient la poussière ;<lb/>
+" et, si tu t'égarais dans ton vol glorieux,<lb/>
+" c'était comme l'aiglon qui se perd dans les cieux,<lb/>
+" c'était pour chercher la lumière.<lb/>
+" tu voulus l'étouffer sous ton sceptre d'airain :<pb n="103"/>
+" tremble, je vois pâlir ton étoile éclipsée.<lb/>
+" la force est sans appui, du jour qu'elle est sans<lb/>
+frein.<lb/>
+" adieu ! Ton règne expire, et ta gloire est passée. "<lb/>
+la dernière... ô pitié, des fers chargeaient ses bras !<lb/>
+L'oeil baissé vers la terre où chacun de ses pas<lb/>
+laissait une empreinte sanglante,<lb/>
+elle s'avançait chancelante<lb/>
+en murmurant ces mots : meurt et ne se rend pas.<lb/>
+Loin d'elle les trésors qui parent la conquête,<lb/>
+et l'appareil des drapeaux prisonniers !<lb/>
+Mais des cyprès, beaux comme des lauriers,<lb/>
+de leur sombre couronne environnaient sa tête.<lb/>
+" tu ne me connaîtras qu'en cessant d'être roi.<lb/>
+" écoute et tremble : aucune autre journée<lb/>
+" dans tes fastes jamais n'aura place après moi,<lb/>
+" et je n'eus point de soeur aînée.<lb/>
+" de vaillance et de deuil souvenir désastreux,<lb/>
+" j'affranchirai les rois que ton bras tient en laisse,<lb/>
+" et je transporterai la chaîne qui les blesse<pb n="104"/>
+" aux peuples qui vaincront pour eux.<lb/>
+" les siècles douteront, en lisant ton histoire,<lb/>
+" si tes vieux compagnons de gloire,<lb/>
+" si ces débris vivans de tant d'exploits divers,<lb/>
+" se sont plus illustrés par trente ans de victoire,<lb/>
+" que par un seul jour de revers.<lb/>
+" je chasserai du ciel ton étoile éclipsée ;<lb/>
+" je briserai ton glaive et ton sceptre d'airain :<lb/>
+" la force est sans appui, du jour qu'elle est sans frein.<lb/>
+" adieu ! Ton règne expire, et ta gloire est passée. "<lb/>
+toutes trois vers le ciel avaient repris l'essor,<lb/>
+et le guerrier surpris les écoutait encor :<lb/>
+leur souvenir pesait sur son ame oppressée ;<lb/>
+mais aux roulemens du tambour,<lb/>
+cette image bientôt sortit de sa pensée,<lb/>
+comme l'ombre des nuits se dissipe effacée<lb/>
+par les premiers rayons du jour.<lb/>
+Il crut avoir dompté les enfans de *Pélage ;<lb/>
+entraîné de nouveau par ce char vagabond<pb n="105"/>
+qui portait en tous lieux la guerre et l'esclavage,<lb/>
+passant sur son empire, il le franchit d'un bond ;<lb/>
+et tout fumans encor, ses coursiers hors d'haleine,<lb/>
+que les feux du midi naguère avaient lassés,<lb/>
+de la *Bérésina, qui coulait sous sa chaîne,<lb/>
+buvaient déjà les flots glacés.<lb/>
+Il dormait sur la foi de son astre infidèle,<lb/>
+trompé par ces flatteurs dont la voix criminelle<lb/>
+l'avait mal conseillé.<lb/>
+Il rêvait, en tombant, l'empire de la terre,<lb/>
+et ne rouvrit les yeux qu'aux éclats du tonnerre :<lb/>
+où s'est-il réveillé ! ...<lb/>
+seul et sur un rocher d'où sa vie importune<lb/>
+troublait encor les rois d'une terreur commune,<lb/>
+du fond de son exil encor présent partout,<lb/>
+grand comme son malheur, détrôné, mais debout<lb/>
+sur les débris de sa fortune.<lb/>
+Laissant l'*Europe vide et la victoire en deuil,<lb/>
+ainsi, de faute en faute et d'orage en orage,<pb n="106"/>
+il est venu mourir sur un dernier écueil,<lb/>
+où sa puissance a fait naufrage.<lb/>
+La vaste mer murmure autour de son cercueil.<lb/>
+Une île t'a reçu sans couronne et sans vie,<lb/>
+toi qu'un empire immense eut peine à contenir ;<lb/>
+sous la tombe, où s'éteint ton royal avenir,<lb/>
+descend avec toi seul toute une dynastie.<lb/>
+Et le pêcheur le soir s'y repose en chemin ;<lb/>
+reprenant ses filets qu'avec peine il soulève<lb/>
+il s'éloigne à pas lents, foule ta cendre, et rêve...<lb/>
+à ses travaux du lendemain.</p>
+			</div>
+			<div>
+				<head>MESS 12 LORD BYRON</head>
+				<pb n="107"/>
+				<p>" non, tu n'es pas un aigle, " ont crié les serpens,<lb/>
+quand son vol faible encor trompait sa jeune audace :<lb/>
+et déjà sur le dos de ces monstres rampans<lb/>
+du bec vengeur de l'aigle il imprimait la trace ;<lb/>
+puis, le front dans les cieux de lumière inondés,<lb/>
+les yeux sur le soleil, les ongles sur la foudre,<lb/>
+il dit à ces serpens qui sifflaient dans la poudre :<lb/>
+" que suis-je ? Répondez. "<lb/>
+tel fut ton noble essor, *Byron, et quelle vie,<lb/>
+vieille de gloire en un matin,<lb/>
+d'un bruit plus imposant, d'un éclat plus soudain,<lb/>
+irrita la mort et l'envie ?<lb/>
+Par de lâches clameurs quel génie insulté<pb n="108"/>
+dans son obscurité première,<lb/>
+changea plus promptement et sa nuit en lumière,<lb/>
+et son siècle en postérité ?<lb/>
+Poètes, respectez les prêtres et les femmes,<lb/>
+ces terrestres divinités !<lb/>
+Comme dans les célestes ames,<lb/>
+l'outrage est immortel dans leurs coeurs irrités.<lb/>
+Un temple, qu'on mutile, a recueilli *Voltaire :<lb/>
+vain refuge, et l'écho des foudres de la chaire,<lb/>
+que le prêtre accoutume à maudire un grand nom,<lb/>
+tonne encor pour chasser son ombre solitaire<lb/>
+des noirs caveaux du panthéon.<lb/>
+*Byron, tu préféras, sous le ciel d'*Ibérie,<lb/>
+des roses de *Cadix l'éclat et les couleurs<lb/>
+aux attraits de ces nobles fleurs<lb/>
+pâles comme le ciel de ta froide patrie ;<pb n="109"/>
+de là tes jours de deuil, de là tes longs malheurs !<lb/>
+Des vierges d'*Albion la beauté méprisée<lb/>
+te poursuivit jusqu'au cercueil,<lb/>
+et de l'*Angleterre abusée<lb/>
+tu fus le mépris et l'orgueil.<lb/>
+En vain leurs yeux ardens dévoraient tes ouvrages ;<lb/>
+l'auteur par son exil expia ses outrages ;<lb/>
+et tu n'as rencontré sous des cieux différens,<lb/>
+des créneaux de *Chillon aux débris de *Mégare,<lb/>
+des gouffres d'*Abydos aux cachots de *Ferrare,<lb/>
+que sujets d'accuser les dieux et les tyrans.<lb/>
+Victime de l'orgueil, tu chantas les victimes<lb/>
+qu'il immole sur ses autels ;<lb/>
+entouré de débris qui racontaient des crimes,<lb/>
+tu peignis de grands criminels.<lb/>
+Rebelle à son malheur, ton ame indépendante<lb/>
+n'en put sans désespoir porter le joug de fer :<lb/>
+persécuté comme le *Dante,<lb/>
+comme lui tu rêvas l'enfer.<lb/>
+L'*Europe doit t'absoudre, en lançant l'anathème<pb n="110"/>
+sur tes tristes imitateurs.<lb/>
+La gloire n'appartient qu'aux talens créateurs ;<lb/>
+sois immortel : tu fus toi-même.<lb/>
+Il brille d'un éclat que rien ne peut ternir,<lb/>
+ce tableau de la *Grèce au cercueil descendue,<lb/>
+qui n'a plus de vivant que le grand souvenir<lb/>
+de sa gloire à jamais perdue.<lb/>
+Contemplez une femme, avant que le linceuil<lb/>
+en tombant sur son front brise votre espérance<lb/>
+le jour de son trépas, ce premier jour du deuil<lb/>
+où le danger finit, où le néant commence :<lb/>
+quelle triste douceur ! Quel charme attendrissant !<lb/>
+Que de mélancolie, et pourtant que de grace<lb/>
+dans ces lèvres sans vie où la pâleur descend !<lb/>
+Comme votre oeil avide admire en frémissant<lb/>
+le calme de ses traits dont la forme s'efface,<lb/>
+la morne volupté de son sein pâlissant !<lb/>
+Du corps inanimé l'aspect glace votre ame :<pb n="111"/>
+pour vous-même attendri, vous lisez vos destins<lb/>
+dans l'immobilité de ses beaux yeux éteints.<lb/>
+Ils ont séduit, pleuré, lancé des traits de flamme,<lb/>
+et les voilà sans feux, sans larmes, sans regard !<lb/>
+Pour qu'il vous reste un doute, il est déjà trop tard ;<lb/>
+mais l'espoir un moment suspendit votre crainte,<lb/>
+tant sa tête repose avec sérénité !<lb/>
+Tant la main de la mort s'est doucement empreinte<lb/>
+sur ce paisible front par elle respecté,<lb/>
+où la vie en fuyant a laissé la beauté !<lb/>
+C'est la *Grèce, as-tu dit, c'est la *Grèce opprimée ;<lb/>
+la *Grèce belle encor, mais froide, inanimée ;<lb/>
+la *Grèce morte ! ... arrête, et regarde ses yeux :<lb/>
+leur paupière long-temps fermée<lb/>
+se rouvre à la clarté des cieux.<lb/>
+Regarde, elle s'anime ; écoute, sous ses chaînes<lb/>
+son corps frémit et s'est dressé.<lb/>
+Ce pur sang, que le fer a tant de fois versé,<lb/>
+pour se répandre encor bouillonne dans ses veines ;<lb/>
+son front qui reprend sa fierté,<lb/>
+pâle d'un long trépas, menace et se relève ;<lb/>
+son bras s'alonge et cherche un glaive ;<lb/>
+elle vit, elle parle, elle a dit : liberté !<pb n="112"/>
+Morte, tu l'admirais ; vivante, qu'elle est belle !<lb/>
+Tu ne peux résister à son cri qui t'appelle.<lb/>
+Tu cours, tu la revois, mais c'est en expirant.<lb/>
+Oh ! Qui pourrait des grecs retracer les alarmes,<lb/>
+les voeux, les chants de deuil mêlés au bruit des<lb/>
+armes ?<lb/>
+Autour de la croix sainte, aux pieds des monts errant,<lb/>
+le peuple confondait, dans l'ardeur de son zèle,<lb/>
+son antique croyance avec sa foi nouvelle,<lb/>
+invoquait tous ses dieux, et criait en pleurant :<lb/>
+" vent qui donnes la vie à des fleurs immortelles,<lb/>
+" toi, par qui le laurier vieillit sans se flétrir ;<lb/>
+" vent qui souffles du *Pinde, accours, étends tes<lb/>
+ailes ;<lb/>
+" ton plus beau laurier va mourir !<lb/>
+" flots purs, où s'abreuvait la poésie antique,<lb/>
+" *Childe-*Harold sur vos bords revient pour<lb/>
+succomber ;<lb/>
+" versez votre rosée à ce front héroïque<lb/>
+" que la mort seule a pu courber.<lb/>
+" dieux rivaux, de nos pleurs séchez la source amère :<lb/>
+" dieu vainqueur de *Satan, dieu vainqueur de *Python,<pb n="113"/>
+" renouvelez pour lui les jours nombreux d'*Homère<lb/>
+" et la vieillesse de *Milton ! "<lb/>
+n'invoquez pas les vents, insensés que vous êtes !<lb/>
+Leur souffle aime à flétrir la palme des poètes,<lb/>
+tandis qu'il mûrit les poisons !<lb/>
+N'invoquez pas les flots des fontaines sacrées ;<lb/>
+ils brûlent tôt ou tard les lèvres inspirées<lb/>
+pour qui semblaient couler leurs dons !<lb/>
+N'invoquez pas les dieux ; ils dorment ; la mort<lb/>
+veille.<lb/>
+Pour peu qu'un bruit de gloire ait dénoncé vos jours<lb/>
+à son impitoyable oreille,<lb/>
+la mort entend ; les dieux sont sourds !<lb/>
+Il n'est plus ! Il n'est plus ! Toi, qui fus sa<lb/>
+patrie,<lb/>
+pleure, ingrate *Albion : l'exil paya ses chants.<lb/>
+Berceau de ses aïeux, pleure, antique *Neustrie ;<lb/>
+*Corneille et lui sont tes enfans.<pb n="114"/>
+Et toi que son trépas livre sans espérance<lb/>
+aux chaînes des tyrans qu'auraient punis ses vers,<lb/>
+pleure, esclave ; son luth consolait ta souffrance ;<lb/>
+son glaive aurait brisé tes fers !<lb/>
+Les grecs le vengeront, ils l'ont juré : la gloire<lb/>
+prépare les funèbres jeux<lb/>
+qu'ils vont offrir à sa mémoire.<lb/>
+Qu'ils marchent, que son coeur repose au milieu d'eux,<lb/>
+enseveli par la victoire.<lb/>
+Alors avec le fer du croissant abattu<lb/>
+ils graveront sur son dernier asile :<lb/>
+" ô sort ! Que ne l'épargnais-tu !<lb/>
+" il chantait comme *Homère, il fût mort comme *Achille. "<lb/>
+ah ! Quels que soient les lieux par sa tombe<lb/>
+illustrés,<lb/>
+temple de la vertu, des arts, de la vaillance,<lb/>
+dont *Londre est fière encore et qu'a perdu la *France,<lb/>
+son ombre doit s'asseoir sous tes parvis sacrés.<lb/>
+*Westminster, ouvre-toi ! Levez-vous devant elle,<lb/>
+de vos linceuls dépouillez les lambeaux,<lb/>
+royales majestés ! Et vous, race immortelle,<lb/>
+majestés du talent, qui peuplez ces tombeaux !<pb n="115"/>
+Le voilà sur le seuil, il s'avance, il se nomme...<lb/>
+pressez-vous, faites place à ce digne héritier !<lb/>
+*Milton, place au poète ! *Howe, place au guerrier !<lb/>
+Pressez-vous, rois, place au grand homme !</p>
+			</div>
+			<div>
+				<head>ÉPILOGUE</head>
+				<pb n="117"/>
+				<p>à vous, puissans du monde, à vous, rois de la terre,<lb/>
+qui tenez dans vos mains et la paix et la guerre,<lb/>
+à vous de décider si lassés de souffrir,<lb/>
+les grecs ont pris le fer pour vaincre ou pour mourir :<lb/>
+si du *Tage au *Volga, de la *Tamise au *Tibre,<lb/>
+l'*Europe désormais doit être esclave ou libre.<lb/>
+Libre, elle bénira votre auguste équité ;<lb/>
+non qu'elle offre ses voeux à cette liberté<lb/>
+qui des plus saintes lois s'affranchit par le glaive,<lb/>
+marche sans but, sans frein, sur des débris s'élève,<lb/>
+triomphe dans le trouble, et, vantant ses bienfaits,<lb/>
+pour un abus détruit enfante cent forfaits.<lb/>
+La sage liberté qu'elle attend, qu'elle implore,<lb/>
+qui préside à mes chants, que tout grand peuple<lb/>
+adore,<lb/>
+par le bonheur public affermit les états ;<lb/>
+créant des citoyens, elle fait des soldats,<lb/>
+enchaîne la licence, abat la tyrannie,<lb/>
+des pouvoirs balancés entretient l'harmonie,<pb n="118"/>
+réunit les sujets sous le sceptre des rois,<lb/>
+rapproche tous les rangs, garantit tous les droits,<lb/>
+et, favorable à tous, de son ombre éternelle<lb/>
+couvre jusqu'aux ingrats qui conspirent contre elle !<lb/>
+Ainsi le chêne épais reçoit sous ses rameaux,<lb/>
+défend des feux du jour ces immondes troupeaux<lb/>
+qui, cherchant à ses pieds leur sauvage pâture,<lb/>
+des gazons soulevés flétrissent la verdure,<lb/>
+insultent vainement dans ses profonds appuis<lb/>
+ce tronc qui leur prodigue et son ombre et ses fruits,<lb/>
+et les écraserait de ses vastes ruines,<lb/>
+s'ils pouvaient de la terre arracher ses racines. <lb/>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
