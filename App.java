@@ -9,16 +9,14 @@ public class App {
             System.out.println("\nvous n'avez pas specifier de fichiers a traiter !");
         }else{
             //TODO : traiter tout les fichiers
-            FX a = new FX();
+            Fiches a = new Fiches();
             try{
-                a.read("/home/benkei/project/zellal/boitedialog.fxml");
-                a.build("atcho.xml");
-                // System.out.println(a.nodevect.size());
+                a.read("/home/benkei/project/zellal/data/projet_bis/poeme/fiches/fiches.txt");
+                a.build("owa.xml");
+                System.out.println(a.nodevect.size());
             }catch(Exception e){
                 e.printStackTrace();
             }
-        
-
         }
     }
 }

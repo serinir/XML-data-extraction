@@ -14,11 +14,10 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-public class FX extends Xmlers{
+public class Renault extends Xmlers {
 
 	@Override
 	void read(String file) throws IOException, ParserConfigurationException, SAXException {
@@ -31,37 +30,37 @@ public class FX extends Xmlers{
         factory.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false);
         final DocumentBuilder builder = factory.newDocumentBuilder();
         final Document document = builder.parse(file);
-        final NodeList racine = document.getElementsByTagName("GridPane");
-        parcours(racine);    }
-    void parcours(NodeList n){
-        if(n!=null)
-            for(int i=0;i<n.getLength();i++){
-                if(n.item(i).getAttributes()!=null)
-                    extractAttribute(n.item(i).getAttributes());
-                if(n.item(i).getChildNodes()!=null)
-                    parcours(n.item(i).getChildNodes());
+        final NodeList para = document.getElementsByTagName("p");
+        for (int i=0;i<para.getLength();i++){
+            NodeList li = para.item(i).getChildNodes();
+            if(li.getLength() == 11){
+
+                nodevect.add(para.item(i).getChildNodes().item(1).getTextContent().replaceAll(":|\n|\r","").strip());
+                nodevect.add(para.item(i).getChildNodes().item(6).getTextContent().replaceAll(":|\n|\r","").strip());
+                nodevect.add(para.item(i).getChildNodes().item(10).getTextContent().replaceAll(":|\n|\r","").strip());
             }
-    }
-    private void extractAttribute(NamedNodeMap n){
-        for(int i=0;i<n.getLength();i++)
-            nodevect.add(n.item(i).getNodeName()+","+n.item(i).getNodeValue());
-    }
+        }
+		
+	}
+
 	@Override
 	void build(String output) throws ParserConfigurationException, TransformerException {
 		final DocumentBuilderFactory factory =  DocumentBuilderFactory.newInstance();
         final DocumentBuilder builder = factory.newDocumentBuilder();
         final DOMImplementation domimp = builder.getDOMImplementation();
-        final Document document = domimp.createDocument(null, "Racine", null);
+        final Document document = domimp.createDocument(null, "Concessionnaires", null);
         document.setXmlStandalone(true);
         final Element racine = document.getDocumentElement();
-        racine.setAttribute("xmlns:fx", "http://javafx.com/fxml");
-        for(int i=0;i<nodevect.size();i++){
-            String name = nodevect.get(i).split(",")[0];
-            String value = nodevect.get(i).split(",")[1];
-            Element node = document.createElement("text");
-            node.setAttribute(name,"x");
-            node.appendChild(document.createTextNode(value));
-            racine.appendChild(node);
+        for(int i =0;i<nodevect.size();i+=3){
+            Element nom = document.createElement("Nom");
+            nom.appendChild(document.createTextNode(nodevect.get(i)));
+            Element addr = document.createElement("Adresse");
+            addr.appendChild(document.createTextNode(nodevect.get(i+1)));
+            Element tel = document.createElement("Num_téléphone");
+            tel.appendChild(document.createTextNode(nodevect.get(i+2)));
+            racine.appendChild(nom);
+            racine.appendChild(addr);
+            racine.appendChild(tel);
         }
         final TransformerFactory tfactory = TransformerFactory.newInstance();
         final Transformer transformer = tfactory.newTransformer();
@@ -73,5 +72,8 @@ public class FX extends Xmlers{
         transformer.setOutputProperty(OutputKeys.INDENT, "yes");
         transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
         transformer.transform(source, sortie);
-    }
+
+		
+	}
+    
 }
